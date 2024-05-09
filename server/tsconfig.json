@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "commonjs",
+      "strict": true,
+      "esModuleInterop": true,
+      "outDir": "./dist",
+      "sourceMap": true,
+      "lib": ["es6", "dom"],
+    },
+    "include": [
+      "src/**/*.ts"
+, "app.ts", "src/config/smsService.ts"    ]
+  }
+  

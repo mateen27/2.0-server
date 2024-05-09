@@ -1,0 +1,201 @@
+{
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "id": 872585,
+        "original_language": "en",
+        "original_title": "Oppenheimer",
+        "overview": "The story of J. Robert Oppenheimer’s role in the development of the atomic bomb during World War II.",
+        "popularity": 496.506,
+        "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+        "release_date": "2023-07-19",
+        "title": "Oppenheimer",
+        "video": false,
+        "vote_average": 8.257,
+        "vote_count": 3698
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "id": 385687,
+        "original_language": "en",
+        "original_title": "Fast X",
+        "overview": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+        "popularity": 1751.474,
+        "poster_path": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+        "release_date": "2023-05-17",
+        "title": "Fast X",
+        "video": false,
+        "vote_average": 7.263,
+        "vote_count": 3826
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iIvQnZyzgx9TkbrOgcXx0p7aLiq.jpg",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "id": 1008042,
+        "original_language": "en",
+        "original_title": "Talk to Me",
+        "overview": "When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.",
+        "popularity": 1762.732,
+        "poster_path": "/kdPMUMJzyYAc4roD52qavX0nLIC.jpg",
+        "release_date": "2023-07-26",
+        "title": "Talk to Me",
+        "video": false,
+        "vote_average": 7.234,
+        "vote_count": 836
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/H6j5smdpRqP9a8UnhWp6zfl0SC.jpg",
+        "genre_ids": [
+          28,
+          878,
+          12
+        ],
+        "id": 565770,
+        "original_language": "en",
+        "original_title": "Blue Beetle",
+        "overview": "Recent college grad Jaime Reyes returns home full of aspirations for his future, only to find that home is not quite as he left it. As he searches to find his purpose in the world, fate intervenes when Jaime unexpectedly finds himself in possession of an ancient relic of alien biotechnology: the Scarab.",
+        "popularity": 4198.111,
+        "poster_path": "/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",
+        "release_date": "2023-08-16",
+        "title": "Blue Beetle",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 836
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/i3OTGmLNOZIo4SRQLVfLjeWegB6.jpg",
+        "genre_ids": [
+          28,
+          53,
+          80
+        ],
+        "id": 603692,
+        "original_language": "en",
+        "original_title": "John Wick: Chapter 4",
+        "overview": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+        "popularity": 579.749,
+        "poster_path": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+        "release_date": "2023-03-22",
+        "title": "John Wick: Chapter 4",
+        "video": false,
+        "vote_average": 7.815,
+        "vote_count": 4593
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "id": 298618,
+        "original_language": "en",
+        "original_title": "The Flash",
+        "overview": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?",
+        "popularity": 622.662,
+        "poster_path": "/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+        "release_date": "2023-06-13",
+        "title": "The Flash",
+        "video": false,
+        "vote_average": 6.898,
+        "vote_count": 2917
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5mzr6JZbrqnqD8rCEvPhuCE5Fw2.jpg",
+        "genre_ids": [
+          28,
+          878,
+          27
+        ],
+        "id": 615656,
+        "original_language": "en",
+        "original_title": "Meg 2: The Trench",
+        "overview": "An exploratory dive into the deepest depths of the ocean of a daring research team spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival.",
+        "popularity": 1954.996,
+        "poster_path": "/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",
+        "release_date": "2023-08-02",
+        "title": "Meg 2: The Trench",
+        "video": false,
+        "vote_average": 6.968,
+        "vote_count": 1919
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+        "genre_ids": [
+          35,
+          12,
+          14
+        ],
+        "id": 346698,
+        "original_language": "en",
+        "original_title": "Barbie",
+        "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+        "popularity": 1598.743,
+        "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+        "release_date": "2023-07-19",
+        "title": "Barbie",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 4968
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/c6Splshb8lb2Q9OvUfhpqXl7uP0.jpg",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "id": 717930,
+        "original_language": "en",
+        "original_title": "Kandahar",
+        "overview": "After his mission is exposed, an undercover CIA operative stuck deep in hostile territory in Afghanistan must fight his way out, alongside his Afghan translator, to an extraction point in Kandahar, all whilst avoiding elite enemy forces and foreign spies tasked with hunting them down.",
+        "popularity": 1073.901,
+        "poster_path": "/lCanGgsqF4xD2WA5NF8PWeT3IXd.jpg",
+        "release_date": "2023-05-25",
+        "title": "Kandahar",
+        "video": false,
+        "vote_average": 6.892,
+        "vote_count": 544
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jkKVLzLWjSvTnc84VzeljhSy6j8.jpg",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "id": 820525,
+        "original_language": "en",
+        "original_title": "After Everything",
+        "overview": "Besieged by writer’s block and the crushing breakup with Tessa, Hardin travels to Portugal in search of a woman he wronged in the past – and to find himself. Hoping to win back Tessa, he realizes he needs to change his ways before he can make the ultimate commitment.",
+        "popularity": 575.804,
+        "poster_path": "/gZLGCibvFY4zmt8sWUZcbBTHRtk.jpg",
+        "release_date": "2023-09-13",
+        "title": "After Everything",
+        "video": false,
+        "vote_average": 6.543,
+        "vote_count": 46
+      }
+    ]
+  }
