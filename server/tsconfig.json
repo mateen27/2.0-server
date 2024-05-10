@@ -1,15 +1,27 @@
 {
-    "compilerOptions": {
-      "target": "es6",
-      "module": "commonjs",
-      "strict": true,
-      "esModuleInterop": true,
-      "outDir": "./dist",
-      "sourceMap": true,
-      "lib": ["es6", "dom"],
-    },
-    "include": [
-      "src/**/*.ts"
-, "app.ts", "src/config/smsService.ts"    ]
-  }
-  
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "outDir": "./dist",
+    "sourceMap": true,
+    "lib": ["es6", "dom"],
+    "resolveJsonModule": true // Enable resolveJsonModule
+  },
+  "include": [
+    "src/**/*.ts",
+    "app.ts",
+    "src/config/smsService.ts",
+    "src/data/MovieCast/MovieCastDetails.json",
+    "src/data/MovieDetails/MovieDetails.json",
+    "src/data/AllMovies.json",
+    "src/data/BollywoodMovies.json",
+    "src/data/PopularMovies.json",
+    "src/data/NowPlayingMovies.json",
+    "src/data/TamilMovies.json",
+    "src/data/TelguMovies.json",
+    "src/data/TopRatedMovies.json",
+    "src/data/UpcomingMovies.json", "src/models/chatModel.ts",
+  ]
+}

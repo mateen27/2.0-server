@@ -4,6 +4,8 @@ import {
   acceptFriendRequest,
   createNotification,
   createNotificationn,
+  deleteMessages,
+  fetchChatsService,
   fetchFollowers,
   fetchFollowing,
   fetchFriendRequests,
@@ -15,9 +17,11 @@ import {
   findUserByEmailAndPassword,
   findUserByID,
   generateToken,
+  getUserDetailsService,
   isAlreadyRegistered,
   listAllUsersExceptLoggedIn,
   registerToDatabase,
+  sendMessageToRecipient,
   updateFriendRequests,
   updateSentFriendRequests,
   updateUserUploadedPosts,
@@ -26,20 +30,40 @@ import mongoose, { FilterQuery } from "mongoose";
 import Post, { PostInterface } from "../models/postModel";
 // movies data
 import * as fs from "fs";
-import {
-  ALL_MOVIES,
-  BollywoodMovies,
-  NowPlayingMovies,
-  PopularMovies,
-  TamilMovies,
-  TelguMovies,
-  TopRatedMovies,
-  UpcomingMovies,
-} from "../path";
+// ----------------------------------- --------------------------------
+// Movies data from the data folder
+import path from "path";
+
+const ALL_MOVIES = path.resolve(__dirname, "../data/AllMovies.json");
+
+const BollywoodMovies = path.resolve(__dirname, "../data/BollywoodMovies.json");
+
+const NowPlayingMovies = path.resolve(
+  __dirname,
+  "../data/NowPlayingMovies.json"
+);
+
+const PopularMovies = path.resolve(__dirname, "../data/PopularMovies.json");
+
+const TamilMovies = path.resolve(__dirname, "../data/TamilMovies.json");
+
+const TelguMovies = path.resolve(__dirname, "../data/TelguMovies.json");
+
+const TopRatedMovies = path.resolve(__dirname, "../data/TopRatedMovies.json");
+
+const UpcomingMovies = path.resolve(__dirname, "../data/UpcomingMovies.json");
+
+// ----------------------------------- --------------------------------
+
 import RoomModel, { Movie, MovieModel, Room } from "../models/roomModel";
 // importing uuid for random ID generation
-import { v4 as uuidv4 } from 'uuid';
-import Notification, { NotificationInterface } from "../models/notificationModel";
+import { v4 as uuidv4 } from "uuid";
+import Notification, {
+  NotificationInterface,
+} from "../models/notificationModel";
+
+import MovieCastDetails from "../data/MovieCast/MovieCastDetails.json";
+import MovieDetails from "../data/MovieDetails/MovieDetails.json";
 
 // logic for signing the user inside of the application
 const loginUserHandler = async (req: Request, res: Response) => {
@@ -201,14 +225,14 @@ const acceptFriendRequestHandler = async (req: Request, res: Response) => {
     await acceptFriendRequest(userID, recepientID);
 
     const existingUser = await User.findById(userID);
-  if (existingUser) {
-    await createNotificationn(
-      recepientID,
-      `Your friend request has been accepted by ${existingUser.name}.`,
-      "friend_request_accepted",
-      '' // Empty string as placeholder for postId
-    );
-  }
+    if (existingUser) {
+      await createNotificationn(
+        recepientID,
+        `Your friend request has been accepted by ${existingUser.name}.`,
+        "friend_request_accepted",
+        "" // Empty string as placeholder for postId
+      );
+    }
 
     // send the reponse back to the client
     res.status(200).json({ success: true, message: "Friend request accepted" });
@@ -243,10 +267,14 @@ const viewFollowingsHandler = async (req: Request, res: Response) => {
     const { userID } = req.params;
 
     // finding if the user the user exists or not
-    const user = await fetchFollowing(userID);
+    const user = await User.findById(userID).populate('following', 'name email image')
 
     // accesianing the following of the user
     const following = user?.following;
+    // console.log('following', following);
+    
+    // console.log('user following', user);
+    
 
     // returning the response
     res.status(200).json(following);
@@ -401,12 +429,10 @@ const updatePostDescriptionHandler = async (req: Request, res: Response) => {
     post.contentDescription = description;
     const updatedPost = await post.save();
 
-    res
-      .status(200)
-      .json({
-        message: "Post description updated successfully",
-        post: updatedPost,
-      });
+    res.status(200).json({
+      message: "Post description updated successfully",
+      post: updatedPost,
+    });
   } catch (error) {
     console.log("error updating the description of the user", error);
     res.status(500).json({ message: "Internal Server Error" });
@@ -812,7 +838,7 @@ const fetchUserByID = async (req: Request, res: Response) => {
     const { userID } = req.params;
 
     // Find the user by ID and populate the email and name fields
-    const user = await User.findById(userID).select("email name").exec();
+    const user = await User.findById(userID).select("email name image").exec();
 
     // Check if the user exists
     if (!user) {
@@ -835,27 +861,36 @@ const createRoomHandler = async (req: Request, res: Response) => {
     const { movieID, movieName, movieLink } = req.body; // Destructure movie details from request body
 
     // Find all active rooms created by the user
-    const activeRooms = await RoomModel.find({ hostUserId: userID, status: 'active' });
+    const activeRooms = await RoomModel.find({
+      hostUserId: userID,
+      status: "active",
+    });
 
     // Set status of all active rooms except the current one to 'ended'
-    await Promise.all(activeRooms.map(async (room) => {
-      if (room.roomID !== req.body.roomID) {
-        room.status = 'ended';
-        await room.save();
-      }
-    }));
+    await Promise.all(
+      activeRooms.map(async (room) => {
+        if (room.roomID !== req.body.roomID) {
+          room.status = "ended";
+          await room.save();
+        }
+      })
+    );
 
     // convert the string userID to mongoose ObjectID
     const userId = new mongoose.Types.ObjectId(userID);
 
     // Create new room
     const roomId = uuidv4(); // Generate a random unique roomId
-    const movieDetails: Movie = new MovieModel({ movieID, movieName, movieLink });
+    const movieDetails: Movie = new MovieModel({
+      movieID,
+      movieName,
+      movieLink,
+    });
     const roomData = {
       roomID: roomId,
       hostUserId: userId,
       movieDetails: [movieDetails], // Assuming movieDetails is a single Movie object
-      status: 'active', // Default status
+      status: "active", // Default status
       createdAt: new Date(),
       usersJoined: [], // Initialize users joined array
       users: [], // Initialize users array
@@ -864,11 +899,10 @@ const createRoomHandler = async (req: Request, res: Response) => {
     const room = await RoomModel.create(roomData);
     res.status(201).json({ room, roomId }); // Send roomId in the response
   } catch (error) {
-    console.log('Error creating room:', error);
+    console.log("Error creating room:", error);
     res.status(500).json({ message: "Internal Server Error" });
   }
-}
-
+};
 
 // endpoint for joining the room
 const joinRoomHandler = async (req: Request, res: Response) => {
@@ -879,13 +913,13 @@ const joinRoomHandler = async (req: Request, res: Response) => {
     // Find the room by ID
     const room = await RoomModel.findOne({ roomID });
     if (!room) {
-      return res.status(404).json({ error: 'Room not found' });
+      return res.status(404).json({ error: "Room not found" });
     }
 
     // Convert the string userID to mongoose.Types.ObjectId
     const userId = new mongoose.Types.ObjectId(userID);
     // Check if the user is already in the room
-    const userInRoom = room.users.some(user => user.equals(userId));
+    const userInRoom = room.users.some((user) => user.equals(userId));
     // if (userInRoom) {
     //   return res.status(400).json({ error: 'User already in the room' });
     // }
@@ -897,89 +931,233 @@ const joinRoomHandler = async (req: Request, res: Response) => {
 
     res.status(200).json(room);
   } catch (error) {
-    console.log('error joining the room', error);
+    console.log("error joining the room", error);
     res.status(500).json({ message: "Internal Server Error" });
   }
-}
-
+};
 
 // endopoint for searching the user
-const searchUserHandler = async ( req:Request, res:Response ) => {
+const searchUserHandler = async (req: Request, res: Response) => {
   try {
-
-    const {keyword} = req.body
+    const { keyword } = req.body;
 
     // Ensure that keyword is a string
-    if (typeof keyword !== 'string') {
-      throw new Error('Keyword must be a string');
-  }
+    if (typeof keyword !== "string") {
+      throw new Error("Keyword must be a string");
+    }
 
-  // Search users whose name contains the keyword (case-insensitive)
-  const users = await User.find({ name: { $regex: new RegExp(keyword, 'i') } } as FilterQuery<UserInterface>);
+    // Search users whose name contains the keyword (case-insensitive)
+    const users = await User.find({
+      name: { $regex: new RegExp(keyword, "i") },
+    } as FilterQuery<UserInterface>);
 
-  // Return the search results
-  res.json({ success: true, users: users });
+    // Return the search results
+    res.json({ success: true, users: users });
   } catch (error) {
-    console.log('error searching the user', error);
+    console.log("error searching the user", error);
     res.status(500).json({ message: "Internal Server Error" });
   }
-}
+};
 
 // endpoint for fetching the room information
 const fetchRoomDetailsHandler = async (req: Request, res: Response) => {
   try {
-      // Extract the roomId from the request parameters
-      const { roomID } = req.params;
+    // Extract the roomId from the request parameters
+    const { roomID } = req.params;
 
-      // Find the room in the database by roomId
-      const room: Room | null = await RoomModel.findOne({ roomID })
-          .populate('hostUserId', 'id name email') // Populate the hostUserId field to get the host details
-          .populate('users', 'id name') // Populate the users field to get the user IDs
-          .populate('movieDetails')
-          .lean();
+    // Find the room in the database by roomId
+    const room: Room | null = await RoomModel.findOne({ roomID })
+      .populate("hostUserId", "id name email") // Populate the hostUserId field to get the host details
+      .populate("users", "id name") // Populate the users field to get the user IDs
+      .populate("movieDetails")
+      .lean();
 
-      if (!room) {
-          return res.status(404).json({ message: 'Room not found' });
-      }
+    if (!room) {
+      return res.status(404).json({ message: "Room not found" });
+    }
 
-      // Get the number of users in the room
-      const numberOfUsers: number = room.users.length;
+    // Get the number of users in the room
+    const numberOfUsers: number = room.users.length;
 
-      // Extract relevant information from the room
-      const roomDetails = {
-          roomID: room.roomID,
-          host: room.users,
-          numberOfUsers: numberOfUsers,
-          userIds: room.hostUserId, // Include the user IDs
-          movieDetails: room.movieDetails
-      };
+    // Extract relevant information from the room
+    const roomDetails = {
+      roomID: room.roomID,
+      host: room.users,
+      numberOfUsers: numberOfUsers,
+      userIds: room.hostUserId, // Include the user IDs
+      movieDetails: room.movieDetails,
+    };
 
-      // Send the room details as a response
-      res.status(200).json(roomDetails);
+    // Send the room details as a response
+    res.status(200).json(roomDetails);
   } catch (error) {
-      console.log('error fetching the room information', error);
-      res.status(500).json({ message: "Internal Server Error" });
+    console.log("error fetching the room information", error);
+    res.status(500).json({ message: "Internal Server Error" });
   }
-}
+};
 
-// endpoint for fetching the Notifications of the Users 
-const fetchNotificationHandler = async ( req: Request, res: Response ) => {
+// endpoint for fetching the Notifications of the Users
+const fetchNotificationHandler = async (req: Request, res: Response) => {
   try {
     // Extract the user ID from the request parameters
     const { userID } = req.params;
 
     // Use Mongoose to find notifications by user ID
-    const notifications: NotificationInterface[] = await Notification.find({ userId: userID });
+    const notifications: NotificationInterface[] = await Notification.find({
+      userId: userID,
+    });
 
     // Return the fetched notifications as a response
     res.status(200).json({ notifications });
-} catch (error) {
+  } catch (error) {
     // Handle any errors that occur during the process
-    console.error('Error fetching notifications:', error);
-    res.status(500).json({ error: 'Internal Server Error' });
-}
-}
+    console.error("Error fetching notifications:", error);
+    res.status(500).json({ error: "Internal Server Error" });
+  }
+};
 
+// endpoint for fethcing the movie cast details
+const fetchMovieCastHandler = (req: Request, res: Response) => {
+  try {
+    const movieId = parseInt(req.params.movieId);
+
+    // Find the movie cast details based on the movie ID
+    const castDetails = MovieCastDetails.find(
+      (movie: any) => movie.id === movieId
+    );
+
+    if (castDetails) {
+      res.status(200).json(castDetails);
+    } else {
+      res.status(404).json({ message: "Movie cast details not found" });
+    }
+  } catch (error) {
+    console.log("error fetching the cast details", error);
+    res.status(500).json({ message: "Internal Server Error" });
+  }
+};
+
+// endpoint for fetching the movie details
+const fetchMovieDescriptionHandler = async (req: Request, res: Response) => {
+  try {
+    const movieId = parseInt(req.params.movieId);
+
+    // Find the movie cast details based on the movie ID
+    const castDetails = MovieDetails.find((movie: any) => movie.id === movieId);
+
+    if (castDetails) {
+      res.status(200).json(castDetails);
+    } else {
+      res.status(404).json({ message: "Movie cast details not found" });
+    }
+  } catch (error) {
+    console.log("error finding the movies details ", error);
+    res.status(500).json({ message: "Movie cast details not found" });
+  }
+};
+
+// endpoint for searching the movies
+const getSearchMovieHandler = async (req: Request, res: Response) => {
+  try {
+    const searchQuery = req.params.title.toLowerCase(); // Assuming the movie title is passed in the request body as 'title'
+
+    // Read the JSON file synchronously and parse it into an object
+    // Construct the file path using path.join()
+    const filePath = path.resolve(__dirname, "../data/AllMovies.json");
+    // console.log('filePaths', filePath);
+
+    // Read the JSON file synchronously and parse it into an object
+    const moviesData = JSON.parse(fs.readFileSync(filePath, "utf8"));
+    // console.log('moviesData', moviesData);
+
+    const results = moviesData.results.filter(
+      (movie: any) => movie.title.toLowerCase() === searchQuery
+    );
+
+    if (results.length === 0) {
+      return res.status(404).json({ error: "Movie not found" });
+    }
+
+    res.json(results);
+  } catch (error) {
+    console.log("error finding the movie", error);
+    res.status(500).json({ message: "Internal Server Error" });
+  }
+};
+
+// Function to send message to a person
+const sendMessage = async (req: Request, res: Response) => {
+  try {
+    const { senderId, recipientId, messageType, messageText, imageUrl } =
+      req.body;
+
+    console.log("userID", senderId);
+    console.log("recepientId", recipientId);
+
+    // Assuming you have defined the sendMessage function elsewhere
+    await sendMessageToRecipient(senderId, recipientId, messageType, messageText, imageUrl);
+
+    res
+      .status(200)
+      .json({ success: true, message: "Message sent successfully." });
+  } catch (error) {
+    console.error("Error sending message:", error);
+    res.status(500).json({ success: false, message: "Internal Server Error." });
+  }
+};
+
+// function to fetch the userDetails of a person!
+const getUserDetails = async (req: Request, res: Response) => {
+  try {
+    const { userId } = req.params;
+
+    // fetch the user Data from the userId
+    const response = await getUserDetailsService(userId);
+
+    if (response) {
+      res.json(response);
+    }
+  } catch (error) {
+    console.error("Error fetching user details:", error);
+    res.status(500).json({ success: false, message: "Internal Server Error." });
+  }
+};
+
+// // endpoint to fetch the messages between two users in the chatRoom!
+const fetchChats = async (req: Request, res: Response) => {
+  try {
+    const { senderId, recepientId } = req.params;
+
+    const message = await fetchChatsService(senderId, recepientId);
+
+    res.json(message);
+  } catch (error) {
+    console.error("Error fetching Chats:", error);
+    res.status(500).json({ success: false, message: "Internal Server Error." });
+  }
+};
+
+// endpint to delete the messages between two users in the chatRoom
+const deleteMessage = async (req: Request, res: Response) => {
+  try {
+    const { messages } = req.body;
+
+    if (!Array.isArray(messages) || messages.length === 0) {
+      return res
+        .status(400)
+        .json({ success: false, message: "No messages to delete!" });
+    }
+
+    const message = await deleteMessages(messages);
+
+    if (message) {
+      res.json({ message: "Message deleted successfully!" });
+    }
+  } catch (error) {
+    console.error("Error Deleting Messages:", error);
+    res.status(500).json({ success: false, message: "Internal Server Error." });
+  }
+};
 
 export {
   loginUserHandler,
@@ -1015,5 +1193,12 @@ export {
   joinRoomHandler,
   searchUserHandler,
   fetchRoomDetailsHandler,
-  fetchNotificationHandler
+  fetchNotificationHandler,
+  fetchMovieCastHandler,
+  fetchMovieDescriptionHandler,
+  getSearchMovieHandler,
+  sendMessage,
+  getUserDetails,
+  fetchChats,
+  deleteMessage
 };

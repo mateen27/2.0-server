@@ -5,10 +5,11 @@ import nodemailer from 'nodemailer'
 
 import { UserInterface } from "./../models/userModel";
 import User from "../models/userModel";
-import Chat from "../models/chatModel";
+// import Message from '../models/chatModel.ts';
 import jwt from "jsonwebtoken";
 import mongoose from "mongoose";
 import Post, { PostInterface } from "../models/postModel";
+import Message from '../models/chatModel';
 
 // Define the return type as Promise<UserInterface | null> since the function is async
 const findUserByEmailAndPassword = async (
@@ -299,7 +300,7 @@ const fetchFollowers = async ( userID: string ): Promise < UserInterface | null 
 // function for fetching all the followings of the user
 const fetchFollowing = async ( userID: string ): Promise< UserInterface | null > => {
     try {
-        return await User.findById(userID).populate('following', 'name email mobile image is_online followers following uploadedMovies')
+        return await User.findById(userID).populate('following', 'name email ')
     } catch (error) {
         console.log('error fetching following', error);
         throw error;
@@ -470,6 +471,77 @@ const sendMail = async (email: string, otp: string) => {
   }
 }
 
+// Define a function to send message to recipient
+const sendMessageToRecipient = async (
+  senderId: mongoose.Types.ObjectId,
+  recipientId: mongoose.Types.ObjectId,
+  messageType: string,
+  messageText: string,
+  imageUrl?: string
+) => {
+  // Create a new message document
+  const newMessage = new Message({
+    senderId,
+    recipientId,
+    messageType,
+    message: messageText,
+    imageUrl,
+    timeStamp: new Date(),
+  });
+
+  // Save the new message to the database
+  await newMessage.save();
+};
+
+
+// function to fetch the userDetails by the userId
+const getUserDetailsService = async (userId: any) => {
+  try {
+    return await User.findById(userId);
+  } catch (error) {
+    // Handle the error appropriately
+    console.error("Error fetching user details:", error);
+    throw error;
+  }
+};
+
+// endpoint to fetch the messages between two users in the chatRoom!
+const fetchChatsService = async (senderId: any, recepientId: any) => {
+  try {
+    const messages = await Message.find({
+      $or: [
+        { senderId: senderId, recipientId: recepientId },
+        { senderId: recepientId, recipientId: senderId },
+      ],
+    }).populate("senderId", "_id name");
+
+    return messages;
+  } catch (error) {
+    // Handle the error appropriately
+    console.error("Error fetching user details:", error);
+    throw error;
+  }
+};
+
+// endpoint to delete the messages between two users in the chatRoom
+const deleteMessages = async (messages: any) => {
+  try {
+    // Delete messages with the specified IDs
+    const result = await Message.deleteMany({ _id: { $in: messages } });
+
+    if (result.deletedCount > 0) {
+      // Some messages were deleted successfully
+      return { success: true, message: "Messages deleted successfully." };
+    } else {
+      // No messages were deleted (IDs may not have matched any existing messages)
+      return { success: false, message: "No messages deleted." };
+    }
+  } catch (error) {
+    console.error("Error deleting messages:", error);
+    throw error;
+  }
+};
+
 
 export {
   findUserByEmailAndPassword,
@@ -493,7 +565,11 @@ export {
   fetchUserPosts,
   createNotification,
   sendMail,
-  createNotificationn
+  createNotificationn,
+  sendMessageToRecipient,
+  getUserDetailsService,
+  fetchChatsService,
+  deleteMessages
 };
 
 // Intel

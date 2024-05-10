@@ -1,32 +1,33 @@
-import mongoose , { Document, Schema } from "mongoose";
+import mongoose from "mongoose";
 
-interface ChatInterface extends Document {
-    sender_id: mongoose.Schema.Types.ObjectId,
-    receiver_id: mongoose.Schema.Types.ObjectId,
-    message: string,
-    date: Date
-}
+const messageSchema = new mongoose.Schema({
+  senderId: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: "User",
+    required: true,
+  },
+  recipientId: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: "User",
+    required: true,
+  },
+  messageType: {
+    type: String,
+    enum: ["text", "image"],
+    required: true,
+  },
+  message: {
+    type: String,
+  },
+  imageUrl: {
+    type: String,
+  },
+  timeStamp: {
+    type: Date,
+    default: Date.now,
+  },
+});
 
-const chatModelSchema: Schema = new mongoose.Schema({
-    sender_id: {
-        type: mongoose.Schema.Types.ObjectId,
-        ref : 'User'
-    },
-    receiver_id : {
-        type : mongoose.Schema.Types.ObjectId , 
-        ref : 'User'
-    },
-    message : {
-        type : String , 
-        required : true
-    },
-    date : {
-        type : Date , 
-        default : Date.now()
-    }
-},
-{ timestamps: true })
+const Message = mongoose.model("Message", messageSchema);
 
-const Chat = mongoose.model<ChatInterface>('Chat', chatModelSchema);
-
-export default Chat;
+export default Message;

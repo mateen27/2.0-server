@@ -1,0 +1,4586 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/auWqW0BMEytyMpwWvLXqQYTz1wn.jpg",
+        "belongs_to_collection": null,
+        "budget": 10920000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 10402,
+            "name": "Music"
+          },
+          {
+            "id": 10749,
+            "name": "Romance"
+          }
+        ],
+        "homepage": "https://erosnow.com/movie/watch/1000637/rockstar",
+        "id": 79464,
+        "imdb_id": "tt1839596",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_title": "Rockstar",
+        "overview": "College student Janardhan is a simpleton who desperately seeks inspiration for the musician inside him. Although heartbreak helps him reach his goal, it also leads him to self-destruction.",
+        "popularity": 16.288,
+        "poster_path": "/ujbsLMrUKtlPdjBdXtGqrjEhD3r.jpg",
+        "production_companies": [
+          {
+            "id": 3653,
+            "logo_path": "/dEpilNgoW7tElN3xacXckHxGXbo.png",
+            "name": "Eros International",
+            "origin_country": "IN"
+          },
+          {
+            "id": 5670,
+            "logo_path": null,
+            "name": "Shree Ashtavinayak Cine Vision",
+            "origin_country": ""
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2011-11-11",
+        "revenue": 19660000,
+        "runtime": 159,
+        "spoken_languages": [
+          {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Beyond the limits of right and wrong.",
+        "title": "Rockstar",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 177
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1um3EJQlJoSiRI34MVIoG610OzR.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 10749,
+            "name": "Romance"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 35,
+            "name": "Comedy"
+          }
+        ],
+        "homepage": "",
+        "id": 339274,
+        "imdb_id": "tt3148502",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_title": "तमाशा",
+        "overview": "Meeting while on vacation, Ved and Tara sense a connection but vow to keep their real identities a secret. Years later, their paths cross again.",
+        "popularity": 20.275,
+        "poster_path": "/t1TzkKuFM7So4an36VOO4Qst5k3.jpg",
+        "production_companies": [
+          {
+            "id": 84618,
+            "logo_path": null,
+            "name": "Window Seat Films",
+            "origin_country": ""
+          },
+          {
+            "id": 2320,
+            "logo_path": "/nSAXfUCy16cNRiPlBMHeb700t9p.png",
+            "name": "UTV Motion Pictures",
+            "origin_country": "IN"
+          },
+          {
+            "id": 60536,
+            "logo_path": "/chMIfiURhqvr6eWCrzxIwuaWVeN.png",
+            "name": "Nadiadwala Grandson Entertainment",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2015-11-27",
+        "revenue": 0,
+        "runtime": 139,
+        "spoken_languages": [
+          {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Why Always The Same Story?",
+        "title": "Tamasha",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 137
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lJH4Ml80gkbbyBGTIYVbU64tU5R.jpg",
+        "belongs_to_collection": {
+          "id": 557746,
+          "name": "Jannat Collection",
+          "poster_path": null,
+          "backdrop_path": null
+        },
+        "budget": 0,
+        "genres": [
+          {
+            "id": 80,
+            "name": "Crime"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 10749,
+            "name": "Romance"
+          }
+        ],
+        "homepage": "",
+        "id": 25510,
+        "imdb_id": "tt1216300",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_title": "जन्नत",
+        "overview": "A gambler turns into a cricket bookie banking on his sixth sense for the game. But his urge to make quick money pushes him into match-fixing and he loses control of his life and love.",
+        "popularity": 5.981,
+        "poster_path": "/8MnR5wykZmi5rrbq8yP5MItixD0.jpg",
+        "production_companies": [
+          {
+            "id": 3749,
+            "logo_path": "/vSqS9ovkpql7VN1HwTYwR5KexrB.png",
+            "name": "Vishesh Films",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2008-05-16",
+        "revenue": 0,
+        "runtime": 140,
+        "spoken_languages": [
+          {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+          }
+        ],
+        "status": "Released",
+        "tagline": "In Search of Heaven",
+        "title": "Jannat",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 34
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/w1wVPOqj54DwuwBJFIE34ccclF1.jpg",
+        "belongs_to_collection": {
+          "id": 557746,
+          "name": "Jannat Collection",
+          "poster_path": null,
+          "backdrop_path": null
+        },
+        "budget": 0,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 10749,
+            "name": "Romance"
+          }
+        ],
+        "homepage": "",
+        "id": 85053,
+        "imdb_id": "tt2319889",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_title": "जन्नत २",
+        "overview": "A dealer of illegal guns is bullied into being an informer for a cop who wants to put an end to this racket.",
+        "popularity": 4.901,
+        "poster_path": "/2nQgcZb9hGzU2Dz8cYC5JoxkYBi.jpg",
+        "production_companies": [
+          {
+            "id": 12154,
+            "logo_path": "/sOHlz02xc4TmVTL4qY08dATNjxl.png",
+            "name": "Star Studios",
+            "origin_country": "IN"
+          },
+          {
+            "id": 3749,
+            "logo_path": "/vSqS9ovkpql7VN1HwTYwR5KexrB.png",
+            "name": "Vishesh Films",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2012-05-04",
+        "revenue": 0,
+        "runtime": 134,
+        "spoken_languages": [
+          {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Jannat 2",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 22
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/Wi9bgiwfJPYKFcJIiUqCNDFNtf.jpg",
+        "belongs_to_collection": null,
+        "budget": 7700000,
+        "genres": [
+          {
+            "id": 10749,
+            "name": "Romance"
+          },
+          {
+            "id": 35,
+            "name": "Comedy"
+          }
+        ],
+        "homepage": "",
+        "id": 185008,
+        "imdb_id": "tt2178470",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_title": "ये जवानी है दीवानी",
+        "overview": "On a trekking trip, an introverted Naina falls for a charming ex-classmate, whose thirst for adventure drives them apart. Years later, their paths cross again.",
+        "popularity": 13.644,
+        "poster_path": "/em39H81XLCDgXsI7V4IcBZseEO6.jpg",
+        "production_companies": [
+          {
+            "id": 19146,
+            "logo_path": "/5Ff25ornzVNhm5skuAvMAR556NB.png",
+            "name": "Dharma Productions",
+            "origin_country": "IN"
+          },
+          {
+            "id": 2320,
+            "logo_path": "/nSAXfUCy16cNRiPlBMHeb700t9p.png",
+            "name": "UTV Motion Pictures",
+            "origin_country": "IN"
+          },
+          {
+            "id": 3653,
+            "logo_path": "/dEpilNgoW7tElN3xacXckHxGXbo.png",
+            "name": "Eros International",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2013-05-31",
+        "revenue": 46000000,
+        "runtime": 160,
+        "spoken_languages": [
+          {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+          }
+        ],
+        "status": "Released",
+        "tagline": "one cannot be wise and old without being young and crazy",
+        "title": "Yeh Jawaani Hai Deewani",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 246
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/z4k7b66jAHP8sQbEahxss6Ct8BW.jpg",
+        "belongs_to_collection": null,
+        "budget": 7700000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 35,
+            "name": "Comedy"
+          },
+          {
+            "id": 10749,
+            "name": "Romance"
+          }
+        ],
+        "homepage": "",
+        "id": 61202,
+        "imdb_id": "tt1562872",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_title": "ज़िन्दगी ना मिलेगी दोबारा",
+        "overview": "Three friends who were inseparable in childhood decide to go on a three-week-long bachelor road trip to Spain, in order to re-establish their bond and explore thrilling adventures, before one of them gets married. What will they learn of themselves and each other during the adventure?",
+        "popularity": 21.124,
+        "poster_path": "/anJI4uwT0OUdu4sDxb98OMWTaSt.jpg",
+        "production_companies": [
+          {
+            "id": 2934,
+            "logo_path": "/bFoQPEgrOKeQWPBM0RIkfaR3etq.png",
+            "name": "Excel Entertainment",
+            "origin_country": "IN"
+          },
+          {
+            "id": 3653,
+            "logo_path": "/dEpilNgoW7tElN3xacXckHxGXbo.png",
+            "name": "Eros International",
+            "origin_country": "IN"
+          },
+          {
+            "id": 4169,
+            "logo_path": null,
+            "name": "KanZaman Productions",
+            "origin_country": "ES"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          },
+          {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+          }
+        ],
+        "release_date": "2011-07-15",
+        "revenue": 160000000,
+        "runtime": 154,
+        "spoken_languages": [
+          {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Lets Make This The Most Memorable Road Trip Ever",
+        "title": "Zindagi Na Milegi Dobara",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 328
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uvtQQMCMR50e8Ahs6RRpOrAYk1Y.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Drama"
+          }
+        ],
+        "homepage": "",
+        "id": 168245,
+        "imdb_id": "tt2213054",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_title": "कई पो छे!",
+        "overview": "Three friends growing up in India at the turn of the millennium set out to open a training academy to produce the country's next cricket stars.",
+        "popularity": 13.458,
+        "poster_path": "/cAlv5vmDXzpVmTCk4DmggUbW7cd.jpg",
+        "production_companies": [
+          {
+            "id": 2320,
+            "logo_path": "/nSAXfUCy16cNRiPlBMHeb700t9p.png",
+            "name": "UTV Motion Pictures",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2013-02-13",
+        "revenue": 0,
+        "runtime": 126,
+        "spoken_languages": [
+          {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Brothers...For Life.",
+        "title": "Kai Po Che!",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 120
+      },
+
+
+
+      {
+        "adult": false,
+        "backdrop_path": "/kqSxCsGIT4rqrZTTMpYP8RIzojv.jpg",
+        "belongs_to_collection": {
+          "id": 485645,
+          "name": "YRF Spy Universe",
+          "poster_path": "/lvonQKsvBsr1Gy72rbNag6ABh2Y.jpg",
+          "backdrop_path": "/6cJasPP4KwC7PbQiBxjActs6B9r.jpg"
+        },
+        "budget": 38000000,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 12,
+            "name": "Adventure"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          }
+        ],
+        "homepage": "https://www.yashrajfilms.com/movies/tiger-3",
+        "id": 720557,
+        "imdb_id": "tt18411490",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_title": "Tiger 3",
+        "overview": "Following the events of Tiger Zinda Hai, War, and Pathaan, Avinash Singh Rathore returns as Tiger but this time the battle is within. He has to choose between his country or family as an old enemy is after his life, who claims that his family was killed by Tiger. He holds Tiger captive in Pakistan as the Indian agent's loyalty towards his country faces its biggest test.",
+        "popularity": 29.44,
+        "poster_path": "/7wgED7Yx9VLcNWSO91VgwicHmMD.jpg",
+        "production_companies": [
+          {
+            "id": 1569,
+            "logo_path": "/lvzN86o3jrP44DIvn4SMBLOl9PF.png",
+            "name": "Yash Raj Films",
+            "origin_country": "IN"
+          },
+          {
+            "id": 215409,
+            "logo_path": null,
+            "name": "First Step Productions",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2023-11-12",
+        "revenue": 47000000,
+        "runtime": 155,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Vietnamese",
+            "iso_639_1": "vi",
+            "name": "Tiếng Việt"
+          },
+          {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+          }
+        ],
+        "status": "Released",
+        "tagline": "This time, it's personal",
+        "title": "Tiger 3",
+        "video": false,
+        "vote_average": 5.792,
+        "vote_count": 36
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6RV2o8PBCEyw9ylOWViV1CtULIF.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Drama"
+          }
+        ],
+        "homepage": "https://www.vinodchoprafilms.com/movies/12th-fail/",
+        "id": 1163258,
+        "imdb_id": "tt23849204",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_title": "12th Fail",
+        "overview": "Based on the true story of IPS officer Manoj Kumar Sharma, 12th Fail sheds limelight on fearlessly embracing the idea of restarting the academic journey despite the setbacks and challenges and reclaiming one's destiny at a place where millions of students attempt the world's toughest competitive exam: UPSC.",
+        "popularity": 28.048,
+        "poster_path": "/cDWW5l4NTWtQi9McwevrY3knsTd.jpg",
+        "production_companies": [
+          {
+            "id": 3781,
+            "logo_path": "/yzvunYIcSuClORJR9VWzpUvlbIW.png",
+            "name": "Vidhu Vinod Chopra Productions",
+            "origin_country": "IN"
+          },
+          {
+            "id": 86347,
+            "logo_path": "/ir79iQBhrXk9PJ5Pr9vlLjM4viO.png",
+            "name": "Zee Studios",
+            "origin_country": "IN"
+          },
+          {
+            "id": 167940,
+            "logo_path": "/fmJxRGTNQASfx0Kc4fUgCfODfoi.png",
+            "name": "KRG Studios",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2023-08-11",
+        "revenue": 0,
+        "runtime": 147,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+          }
+        ],
+        "status": "Released",
+        "tagline": "#RESTART",
+        "title": "12th Fail",
+        "video": false,
+        "vote_average": 8.276,
+        "vote_count": 87
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kjQBrc00fB2RjHZB3PGR4w9ibpz.jpg",
+        "belongs_to_collection": null,
+        "budget": 80000000,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 12,
+            "name": "Adventure"
+          },
+          {
+            "id": 878,
+            "name": "Science Fiction"
+          }
+        ],
+        "homepage": "https://www.20thcenturystudios.com/movies/the-creator",
+        "id": 670292,
+        "imdb_id": "tt11858890",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Creator",
+        "overview": "Amid a future war between the human race and the forces of artificial intelligence, a hardened ex-special forces agent grieving the disappearance of his wife, is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war—and mankind itself.",
+        "popularity": 238.488,
+        "poster_path": "/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg",
+        "production_companies": [
+          {
+            "id": 10104,
+            "logo_path": "/wRn5HnYMGeJHmItRypgOZOC6gwY.png",
+            "name": "New Regency Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 8147,
+            "logo_path": "/q6HOAdSNgCbeOqwoMVRc6REgbXF.png",
+            "name": "Entertainment One",
+            "origin_country": "CA"
+          },
+          {
+            "id": 508,
+            "logo_path": "/7cxRWzi4LsVm4Utfpr1hfARNurT.png",
+            "name": "Regency Enterprises",
+            "origin_country": "US"
+          },
+          {
+            "id": 206867,
+            "logo_path": null,
+            "name": "Bad Dreams Productions",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2023-09-27",
+        "revenue": 104000000,
+        "runtime": 134,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+          },
+          {
+            "english_name": "Thai",
+            "iso_639_1": "th",
+            "name": "ภาษาไทย"
+          },
+          {
+            "english_name": "Vietnamese",
+            "iso_639_1": "vi",
+            "name": "Tiếng Việt"
+          }
+        ],
+        "status": "Released",
+        "tagline": "This is a fight for our very existence.",
+        "title": "The Creator",
+        "video": false,
+        "vote_average": 7.096,
+        "vote_count": 2620
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jtIjprJvfLeLWTZuVCo4zv13CvF.jpg",
+        "belongs_to_collection": null,
+        "budget": 1300000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          }
+        ],
+        "homepage": "",
+        "id": 1046620,
+        "imdb_id": "tt23554840",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_title": "The Vaccine War",
+        "overview": "Faced with the catastrophic challenge of fighting a global crisis like no other, Indian scientists take on the mantle of producing vaccine despite not having enough resources and infrastructure to save the nation's sixteen million citizens.",
+        "popularity": 2.676,
+        "poster_path": "/ceWCWvbEogkXU1It8gH1l2rcfEJ.jpg",
+        "production_companies": [
+          {
+            "id": 164948,
+            "logo_path": null,
+            "name": "I am Buddha Production",
+            "origin_country": "IN"
+          },
+          {
+            "id": 103329,
+            "logo_path": "/bjJ6phaG9F8cGm3RYBjly8wYuH5.png",
+            "name": "Pen Studios",
+            "origin_country": "IN"
+          },
+          {
+            "id": 163011,
+            "logo_path": null,
+            "name": "Abhishek Agarwal Arts",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2023-09-28",
+        "revenue": 0,
+        "runtime": 160,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+          }
+        ],
+        "status": "Released",
+        "tagline": "A war you didn't know you fought. And won.",
+        "title": "The Vaccine War",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 9
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wmH8saYc8hLyObxjRx0fZR98Ire.jpg",
+        "belongs_to_collection": {
+          "id": 489399,
+          "name": "Fukrey Collection",
+          "poster_path": "/tnHmDgIJkcqxEhhj2sRzwuwZlEf.jpg",
+          "backdrop_path": "/gFwiT29Bf7z1hqenIX35f8WgY8G.jpg"
+        },
+        "budget": 3000000,
+        "genres": [
+          {
+            "id": 35,
+            "name": "Comedy"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
+          }
+        ],
+        "homepage": "",
+        "id": 805785,
+        "imdb_id": "tt26445483",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_title": "फुकरे 3",
+        "overview": "In the third installment, the Fukras plan to take over Delhi, and run for city elections. However, they have no money and so they take on an international job to make a quick buck, which changes their lives forever. In the first two films, we saw them using dreams, then premonitions to make money but now they’ve been gifted with a new & unique talent which is going to make them millionaires.",
+        "popularity": 5.841,
+        "poster_path": "/1E5qIvLBNrv4onx5SxnNz5Monac.jpg",
+        "production_companies": [
+          {
+            "id": 2934,
+            "logo_path": "/bFoQPEgrOKeQWPBM0RIkfaR3etq.png",
+            "name": "Excel Entertainment",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2023-09-28",
+        "revenue": 16000000,
+        "runtime": 147,
+        "spoken_languages": [
+          {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Ek naya chumatkar from Jamnapaar",
+        "title": "Fukrey 3",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 9
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5LtSjMNw6j3LkG29Oa4O0iY5U8.jpg",
+        "belongs_to_collection": null,
+        "budget": 36150000,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 12,
+            "name": "Adventure"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          }
+        ],
+        "homepage": "",
+        "id": 872906,
+        "imdb_id": "tt15354916",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_title": "जवान",
+        "overview": "An emotional journey of a prison warden, driven by a personal vendetta while keeping up to a promise made years ago, recruits inmates to commit outrageous crimes that shed light on corruption and injustice, in an attempt to get even with his past,  and that leads him to an unexpected reunion.",
+        "popularity": 53.969,
+        "poster_path": "/bilZfvrrM1YEICmj5DYVEGmGxod.jpg",
+        "production_companies": [
+          {
+            "id": 2343,
+            "logo_path": "/fkrlAFxgAtIHgYJGIQcDggeucKV.png",
+            "name": "Red Chillies Entertainment",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2023-09-07",
+        "revenue": 136698671,
+        "runtime": 169,
+        "spoken_languages": [
+          {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Jawan",
+        "video": false,
+        "vote_average": 7.243,
+        "vote_count": 210
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uHvxzUCjRQHSRBdmyoLQY6ZrtJO.jpg",
+        "belongs_to_collection": {
+          "id": 1025120,
+          "name": "Dream Girl Collection",
+          "poster_path": "/3KwekiBZE1CLByobOGL3bLmXkF0.jpg",
+          "backdrop_path": "/8DNiNvjaf9inWJ5HW3FeqNB7TjV.jpg"
+        },
+        "budget": 0,
+        "genres": [
+          {
+            "id": 35,
+            "name": "Comedy"
+          },
+          {
+            "id": 10749,
+            "name": "Romance"
+          }
+        ],
+        "homepage": "",
+        "id": 1025067,
+        "imdb_id": "tt22086334",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_title": "ड्रीम गर्ल 2",
+        "overview": "Karam, a small-town boy from Mathura, is struggling every day to pay his father's debt, who has borrowed money from nearly everyone on the planet. On the other hand, he is deeply in love with Pari, whose father has kept the conditions to marry her. To make ends meet, Karam dons as Pooja, which creates wild chaos and a comedy of errors.",
+        "popularity": 7.141,
+        "poster_path": "/gvNeqDNwZ8isym8CeHZsZk1QiSJ.jpg",
+        "production_companies": [
+          {
+            "id": 87484,
+            "logo_path": "/mr29A83cH7ok59YnuVW2In5PlKi.png",
+            "name": "Balaji Telefilms",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2023-08-25",
+        "revenue": 0,
+        "runtime": 134,
+        "spoken_languages": [
+          {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Dream Girl 2",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/g6npG1jDCccjb0Gj31YSYBmOMTG.jpg",
+        "belongs_to_collection": {
+          "id": 1158789,
+          "name": "Gadar Collection",
+          "poster_path": "/yNpOhX8XasrneOdZchcsa6vIUBZ.jpg",
+          "backdrop_path": "/fatasuaWB32N9xPy5pY1g2RlufF.jpg"
+        },
+        "budget": 13000000,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
+          }
+        ],
+        "homepage": "",
+        "id": 885331,
+        "imdb_id": "tt15441054",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_title": "गदर २",
+        "overview": "When Tara Singh goes missing during a skirmish and is believed to be captured in Pakistan, his son Jeete sets out to rescue him and enters a labyrinth from which they both must escape at all costs.",
+        "popularity": 10.363,
+        "poster_path": "/5M02PvRFFh9n3XdriuTaKdtZL9b.jpg",
+        "production_companies": [
+          {
+            "id": 86347,
+            "logo_path": "/ir79iQBhrXk9PJ5Pr9vlLjM4viO.png",
+            "name": "Zee Studios",
+            "origin_country": "IN"
+          },
+          {
+            "id": 108835,
+            "logo_path": null,
+            "name": "Anil Sharma Productions",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2023-08-11",
+        "revenue": 0,
+        "runtime": 168,
+        "spoken_languages": [
+          {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Courage knows no borders",
+        "title": "Gadar 2",
+        "video": false,
+        "vote_average": 6.528,
+        "vote_count": 36
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oy9HT8GThmtHYzGT9abRBkZuGz.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 35,
+            "name": "Comedy"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
+          }
+        ],
+        "homepage": "",
+        "id": 984092,
+        "imdb_id": "tt18561736",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_title": "द ग्रेट इंडियन फैमिली",
+        "overview": "The film is set in the fictional town of Balrampur where Vedvyas Tripathi better known as Bhajan Kumar lives with his family headed by his father Pandit Siyaram Tripathi. Bhajan Kumar’s life with his family was going well till a question on his identity arises that throws the city in a flurry of rumour and apprehension. Will he survive or fall prey to this onslaught?",
+        "popularity": 7.356,
+        "poster_path": "/9Gxe853oX3URrNj8PKGfvoBF3tx.jpg",
+        "production_companies": [
+          {
+            "id": 1569,
+            "logo_path": "/lvzN86o3jrP44DIvn4SMBLOl9PF.png",
+            "name": "Yash Raj Films",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2023-09-22",
+        "revenue": 0,
+        "runtime": 112,
+        "spoken_languages": [
+          {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+          }
+        ],
+        "status": "Released",
+        "tagline": "The biggest confusion of the year",
+        "title": "The Great Indian Family",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rMvPXy8PUjj1o8o1pzgQbdNCsvj.jpg",
+        "belongs_to_collection": {
+          "id": 126125,
+          "name": "The Expendables Collection",
+          "poster_path": "/zwnCtNpHa6TFI1z20LPFgdY2Qks.jpg",
+          "backdrop_path": "/lA7oDSt6LkyDqtbFGbyuG0afmTI.jpg"
+        },
+        "budget": 100000000,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 12,
+            "name": "Adventure"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          }
+        ],
+        "homepage": "https://expendables.movie/",
+        "id": 299054,
+        "imdb_id": "tt3291150",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Expend4bles",
+        "overview": "Armed with every weapon they can get their hands on and the skills to use them, The Expendables are the world’s last line of defense and the team that gets called when all other options are off the table. But new team members with new styles and tactics are going to give “new blood” a whole new meaning.",
+        "popularity": 150.547,
+        "poster_path": "/iwsMu0ehRPbtaSxqiaUDQB9qMWT.jpg",
+        "production_companies": [
+          {
+            "id": 1020,
+            "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
+            "name": "Millennium Media",
+            "origin_country": "US"
+          },
+          {
+            "id": 48738,
+            "logo_path": null,
+            "name": "Campbell Grobman Films",
+            "origin_country": "US"
+          },
+          {
+            "id": 1632,
+            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+            "name": "Lionsgate",
+            "origin_country": "US"
+          },
+          {
+            "id": 74795,
+            "logo_path": "/vcCcVEglw9nVcYeZf6xZzA4s1O3.png",
+            "name": "Nu Boyana Film Studios",
+            "origin_country": "BG"
+          },
+          {
+            "id": 126013,
+            "logo_path": null,
+            "name": "Templeton Media",
+            "origin_country": "US"
+          },
+          {
+            "id": 3528,
+            "logo_path": "/cCzCClIzIh81Fa79hpW5nXoUsHK.png",
+            "name": "Thunder Road",
+            "origin_country": "US"
+          },
+          {
+            "id": 342,
+            "logo_path": "/kZ99mxyNvNgyAFjm7rcl9vfYmU8.png",
+            "name": "Davis Films",
+            "origin_country": "FR"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "BG",
+            "name": "Bulgaria"
+          },
+          {
+            "iso_3166_1": "FR",
+            "name": "France"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2023-09-15",
+        "revenue": 58000000,
+        "runtime": 103,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "They'll die when they're dead.",
+        "title": "Expend4bles",
+        "video": false,
+        "vote_average": 6.283,
+        "vote_count": 1312
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gxErGzVHOUj7HdObGNVzxR1b7aF.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 35,
+            "name": "Comedy"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
+          }
+        ],
+        "homepage": "",
+        "id": 945337,
+        "imdb_id": "tt18266472",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_title": "सुखी",
+        "overview": "Sukhpreet ‘Sukhee’ Kalra, a 38-year-old Punjabi housewife, goes to Delhi to attend her school reunion. Sukhee relives the 17-year-old version of herself whilst going through a plethora of experiences in a span of just seven days, coming out rekindled, reborn and making the most difficult transition in her life – from being a wife and a mother to being a woman again.",
+        "popularity": 7.418,
+        "poster_path": "/1MHZRVa4TKrVtVe5vZJRs4QIx8H.jpg",
+        "production_companies": [
+          {
+            "id": 86581,
+            "logo_path": "/k6YH6rQLtNAgI5dQ7LIzBBvIgtx.png",
+            "name": "Abundantia Entertainment",
+            "origin_country": "IN"
+          },
+          {
+            "id": 3522,
+            "logo_path": "/d3u51JgEP5KwPfxS13ocqvtzZeX.png",
+            "name": "T-Series",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2023-09-22",
+        "revenue": 0,
+        "runtime": 139,
+        "spoken_languages": [
+          {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+          },
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Bedhadak. Besharam. Beparwah.",
+        "title": "Sukhee",
+        "video": false,
+        "vote_average": 3.7,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pLm9j7o5InoWaG2tlaQABYR2cAx.jpg",
+        "belongs_to_collection": {
+          "id": 968052,
+          "name": "The Nun Collection",
+          "poster_path": "/2RLAPEbafIFG7J8FV9h1lKWNYBU.jpg",
+          "backdrop_path": "/bKpqH9y3SjovMM3VqzezBbJtuf7.jpg"
+        },
+        "budget": 38500000,
+        "genres": [
+          {
+            "id": 27,
+            "name": "Horror"
+          }
+        ],
+        "homepage": "https://www.warnerbros.com/movies/nun2",
+        "id": 968051,
+        "imdb_id": "tt10160976",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Nun II",
+        "overview": "In 1956 France, a priest is violently murdered, and Sister Irene begins to investigate. She once again comes face-to-face with a powerful evil.",
+        "popularity": 117.769,
+        "poster_path": "/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg",
+        "production_companies": [
+          {
+            "id": 12,
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+          },
+          {
+            "id": 76907,
+            "logo_path": "/ygMQtjsKX7BZkCQhQZY82lgnCUO.png",
+            "name": "Atomic Monster",
+            "origin_country": "US"
+          },
+          {
+            "id": 11565,
+            "logo_path": "/S74cHHbIrdmb5M51Pft72Uo9Gz.png",
+            "name": "The Safran Company",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2023-09-06",
+        "revenue": 268100000,
+        "runtime": 110,
+        "spoken_languages": [
+          {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+          },
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+          },
+          {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+          },
+          {
+            "english_name": "Portuguese",
+            "iso_639_1": "pt",
+            "name": "Português"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Confess your sins.",
+        "title": "The Nun II",
+        "video": false,
+        "vote_average": 6.807,
+        "vote_count": 1794
+      },
+
+
+
+      {
+        "adult": false,
+        "backdrop_path": "/nb3xI8XI3w4pMVZ38VijbsyBqP4.jpg",
+        "belongs_to_collection": null,
+        "budget": 100000000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 36,
+            "name": "History"
+          }
+        ],
+        "homepage": "http://www.oppenheimermovie.com",
+        "id": 872585,
+        "imdb_id": "tt15398776",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Oppenheimer",
+        "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+        "popularity": 617.369,
+        "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+        "production_companies": [
+          {
+            "id": 9996,
+            "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
+            "name": "Syncopy",
+            "origin_country": "GB"
+          },
+          {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 507,
+            "logo_path": "/aRmHe6GWxYMRCQljF75rn2B9Gv8.png",
+            "name": "Atlas Entertainment",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2023-07-19",
+        "revenue": 952000000,
+        "runtime": 181,
+        "spoken_languages": [
+          {
+            "english_name": "Dutch",
+            "iso_639_1": "nl",
+            "name": "Nederlands"
+          },
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "The world forever changes.",
+        "title": "Oppenheimer",
+        "video": false,
+        "vote_average": 8.102,
+        "vote_count": 7948
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+        "belongs_to_collection": {
+          "id": 9485,
+          "name": "The Fast and the Furious Collection",
+          "poster_path": "/rKKSOVv6iU3nULrKQmd9uEx9gez.jpg",
+          "backdrop_path": "/56h4DCt0ogIRI7B71xD5iA5hES1.jpg"
+        },
+        "budget": 340000000,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          }
+        ],
+        "homepage": "https://fastxmovie.com",
+        "id": 385687,
+        "imdb_id": "tt5433140",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Fast X",
+        "overview": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+        "popularity": 524.979,
+        "poster_path": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+        "production_companies": [
+          {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 333,
+            "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+            "name": "Original Film",
+            "origin_country": "US"
+          },
+          {
+            "id": 1225,
+            "logo_path": "/rIxhJMR7oK8b2fMakmTfRLY2TZv.png",
+            "name": "One Race",
+            "origin_country": "US"
+          },
+          {
+            "id": 34530,
+            "logo_path": null,
+            "name": "Perfect Storm Entertainment",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2023-05-17",
+        "revenue": 704709660,
+        "runtime": 142,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "The end of the road begins.",
+        "title": "Fast X",
+        "video": false,
+        "vote_average": 7.124,
+        "vote_count": 5137
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/46Os8U0DEPmI0OnvKDxucl6SLVZ.jpg",
+        "belongs_to_collection": {
+          "id": 1162328,
+          "name": "Talk to Me Collection",
+          "poster_path": "/oNG1XQpMTbAuItS10y7pTSURwyG.jpg",
+          "backdrop_path": "/brtSrbFFfYB9liimgRzBb0JHaaz.jpg"
+        },
+        "budget": 4500000,
+        "genres": [
+          {
+            "id": 27,
+            "name": "Horror"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          }
+        ],
+        "homepage": "https://umbrellaent.com.au/movie/talk-to-me",
+        "id": 1008042,
+        "imdb_id": "tt10638522",
+        "origin_country": [
+          "AU"
+        ],
+        "original_language": "en",
+        "original_title": "Talk to Me",
+        "overview": "When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.",
+        "popularity": 134.928,
+        "poster_path": "/kdPMUMJzyYAc4roD52qavX0nLIC.jpg",
+        "production_companies": [
+          {
+            "id": 32301,
+            "logo_path": "/5VG9QRUCSDez359VNqcTmOLOH3C.png",
+            "name": "Causeway Films",
+            "origin_country": "AU"
+          },
+          {
+            "id": 110175,
+            "logo_path": "/eOGU7DcaBNq1KemTPkQuVWMX8L2.png",
+            "name": "Metrol Technology",
+            "origin_country": "GB"
+          },
+          {
+            "id": 7584,
+            "logo_path": "/eGkfvvyf4fJTvBUR1xt1669IPA3.png",
+            "name": "Screen Australia",
+            "origin_country": "AU"
+          },
+          {
+            "id": 2806,
+            "logo_path": "/vxOhCbpsRBh10m6LZ3HyImTYpPY.png",
+            "name": "South Australian Film Corporation",
+            "origin_country": "AU"
+          },
+          {
+            "id": 61922,
+            "logo_path": "/aGPysvtFfH8d8UjekpZD3GT9m7k.png",
+            "name": "Bankside Films",
+            "origin_country": "GB"
+          },
+          {
+            "id": 5056,
+            "logo_path": "/583ITs4w9sK31FnJwKiRwapTpzb.png",
+            "name": "Head Gear Films",
+            "origin_country": "GB"
+          },
+          {
+            "id": 209573,
+            "logo_path": "/klSmrRfAUgAlEzVfcfHEQONSNWO.png",
+            "name": "Adelaide Film Festival Investment Fund",
+            "origin_country": "AU"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "AU",
+            "name": "Australia"
+          },
+          {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+          }
+        ],
+        "release_date": "2023-07-26",
+        "revenue": 92000000,
+        "runtime": 95,
+        "spoken_languages": [
+          {
+            "english_name": "Greek",
+            "iso_639_1": "el",
+            "name": "ελληνικά"
+          },
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "You call. They'll answer.",
+        "title": "Talk to Me",
+        "video": false,
+        "vote_average": 7.17,
+        "vote_count": 2562
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xzdOIL7261CWehsHOk3lnP0xqam.jpg",
+        "belongs_to_collection": null,
+        "budget": 104000000,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 878,
+            "name": "Science Fiction"
+          },
+          {
+            "id": 12,
+            "name": "Adventure"
+          }
+        ],
+        "homepage": "https://www.dc.com/bluebeetle",
+        "id": 565770,
+        "imdb_id": "tt9362930",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Blue Beetle",
+        "overview": "Recent college grad Jaime Reyes returns home full of aspirations for his future, only to find that home is not quite as he left it. As he searches to find his purpose in the world, fate intervenes when Jaime unexpectedly finds himself in possession of an ancient relic of alien biotechnology: the Scarab.",
+        "popularity": 161.446,
+        "poster_path": "/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",
+        "production_companies": [
+          {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 11565,
+            "logo_path": "/S74cHHbIrdmb5M51Pft72Uo9Gz.png",
+            "name": "The Safran Company",
+            "origin_country": "US"
+          },
+          {
+            "id": 128064,
+            "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+            "name": "DC Films",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2023-08-16",
+        "revenue": 130788072,
+        "runtime": 128,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Portuguese",
+            "iso_639_1": "pt",
+            "name": "Português"
+          },
+          {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Jaime Reyes is a superhero whether he likes it or not.",
+        "title": "Blue Beetle",
+        "video": false,
+        "vote_average": 6.803,
+        "vote_count": 2343
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7I6VUdPj6tQECNHdviJkUHD2u89.jpg",
+        "belongs_to_collection": {
+          "id": 404609,
+          "name": "John Wick Collection",
+          "poster_path": "/xUidyvYFsbbuExifLkslpcd8SMc.jpg",
+          "backdrop_path": "/fSwYa5q2xRkBoOOjueLpkLf3N1m.jpg"
+        },
+        "budget": 90000000,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
+          }
+        ],
+        "homepage": "https://johnwick.movie",
+        "id": 603692,
+        "imdb_id": "tt10366206",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "John Wick: Chapter 4",
+        "overview": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+        "popularity": 191.196,
+        "poster_path": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+        "production_companies": [
+          {
+            "id": 3528,
+            "logo_path": "/cCzCClIzIh81Fa79hpW5nXoUsHK.png",
+            "name": "Thunder Road",
+            "origin_country": "US"
+          },
+          {
+            "id": 23008,
+            "logo_path": "/5SarYupipdiejsEqUkwu1SpYfru.png",
+            "name": "87Eleven",
+            "origin_country": "US"
+          },
+          {
+            "id": 491,
+            "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png",
+            "name": "Summit Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 264,
+            "logo_path": "/fA90qwUKgPhMONqtwY60GaHRyrW.png",
+            "name": "Studio Babelsberg",
+            "origin_country": "DE"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2023-03-22",
+        "revenue": 440157245,
+        "runtime": 170,
+        "spoken_languages": [
+          {
+            "english_name": "Arabic",
+            "iso_639_1": "ar",
+            "name": "العربية"
+          },
+          {
+            "english_name": "Cantonese",
+            "iso_639_1": "cn",
+            "name": "广州话 / 廣州話"
+          },
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+          },
+          {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+          },
+          {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+          },
+          {
+            "english_name": "Latin",
+            "iso_639_1": "la",
+            "name": "Latin"
+          },
+          {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+          },
+          {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+          }
+        ],
+        "status": "Released",
+        "tagline": "No way back, one way out.",
+        "title": "John Wick: Chapter 4",
+        "video": false,
+        "vote_average": 7.739,
+        "vote_count": 5907
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
+        "belongs_to_collection": null,
+        "budget": 220000000,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 12,
+            "name": "Adventure"
+          },
+          {
+            "id": 878,
+            "name": "Science Fiction"
+          }
+        ],
+        "homepage": "https://www.dc.com/theflash",
+        "id": 298618,
+        "imdb_id": "tt0439572",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Flash",
+        "overview": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?",
+        "popularity": 423.458,
+        "poster_path": "/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+        "production_companies": [
+          {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 152809,
+            "logo_path": null,
+            "name": "Double Dream",
+            "origin_country": "US"
+          },
+          {
+            "id": 170335,
+            "logo_path": null,
+            "name": "The Disco Factory",
+            "origin_country": "US"
+          },
+          {
+            "id": 128064,
+            "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+            "name": "DC Films",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2023-06-13",
+        "revenue": 271333313,
+        "runtime": 144,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+          },
+          {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Worlds collide.",
+        "title": "The Flash",
+        "video": false,
+        "vote_average": 6.744,
+        "vote_count": 3863
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5mzr6JZbrqnqD8rCEvPhuCE5Fw2.jpg",
+        "belongs_to_collection": {
+          "id": 742536,
+          "name": "The Meg Collection",
+          "poster_path": "/rbacYOwij2bEIvO0gKUF2funWKp.jpg",
+          "backdrop_path": "/rNoyJmjdhgn30bVbvd8n3DJMocB.jpg"
+        },
+        "budget": 129000000,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 878,
+            "name": "Science Fiction"
+          },
+          {
+            "id": 27,
+            "name": "Horror"
+          }
+        ],
+        "homepage": "https://www.themeg.movie",
+        "id": 615656,
+        "imdb_id": "tt9224104",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Meg 2: The Trench",
+        "overview": "An exploratory dive into the deepest depths of the ocean of a daring research team spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival.",
+        "popularity": 151.995,
+        "poster_path": "/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",
+        "production_companies": [
+          {
+            "id": 56242,
+            "logo_path": "/1YORRYmg7hgYIgoJek8jU3cykuQ.png",
+            "name": "Apelles Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 435,
+            "logo_path": "/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png",
+            "name": "di Bonaventura Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 92484,
+            "logo_path": "/dfWwoWRp8snHjzDKO5IFkiCAUe7.png",
+            "name": "CMC Pictures",
+            "origin_country": "CN"
+          },
+          {
+            "id": 208094,
+            "logo_path": null,
+            "name": "Onaroll Productions",
+            "origin_country": ""
+          },
+          {
+            "id": 65442,
+            "logo_path": "/mAAUTVBF4KGW4QxESHWg4N8pLdF.png",
+            "name": "DF Pictures",
+            "origin_country": "CN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "CN",
+            "name": "China"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2023-08-02",
+        "revenue": 384056482,
+        "runtime": 116,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Back for seconds.",
+        "title": "Meg 2: The Trench",
+        "video": false,
+        "vote_average": 6.57,
+        "vote_count": 3112
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+        "belongs_to_collection": null,
+        "budget": 145000000,
+        "genres": [
+          {
+            "id": 35,
+            "name": "Comedy"
+          },
+          {
+            "id": 12,
+            "name": "Adventure"
+          }
+        ],
+        "homepage": "https://www.barbie-themovie.com",
+        "id": 346698,
+        "imdb_id": "tt1517268",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Barbie",
+        "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+        "popularity": 459.647,
+        "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+        "production_companies": [
+          {
+            "id": 82968,
+            "logo_path": "/gRROMOG5bpF6TIDMbfaa5gnFFzl.png",
+            "name": "LuckyChap Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 437,
+            "logo_path": "/nu20mtwbEIhUNnQ5NXVhHsNknZj.png",
+            "name": "Heyday Films",
+            "origin_country": "GB"
+          },
+          {
+            "id": 181486,
+            "logo_path": null,
+            "name": "NB/GG Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 6220,
+            "logo_path": "/cAj69EL1zSXmZH6STbMGZrunyMD.png",
+            "name": "Mattel",
+            "origin_country": "US"
+          },
+          {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2023-07-19",
+        "revenue": 1445638421,
+        "runtime": 114,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "She's everything. He's just Ken.",
+        "title": "Barbie",
+        "video": false,
+        "vote_average": 7.066,
+        "vote_count": 8196
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/c6Splshb8lb2Q9OvUfhpqXl7uP0.jpg",
+        "belongs_to_collection": null,
+        "budget": 30000000,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          }
+        ],
+        "homepage": "https://www.openroadfilms.com/movies/kandahar",
+        "id": 717930,
+        "imdb_id": "tt5761544",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Kandahar",
+        "overview": "After his mission is exposed, an undercover CIA operative stuck deep in hostile territory in Afghanistan must fight his way out, alongside his Afghan translator, to an extraction point in Kandahar, all whilst avoiding elite enemy forces and foreign spies tasked with hunting them down.",
+        "popularity": 80.663,
+        "poster_path": "/keT57nO3QcgrxzTKXH9v4hopI8g.jpg",
+        "production_companies": [
+          {
+            "id": 3528,
+            "logo_path": "/cCzCClIzIh81Fa79hpW5nXoUsHK.png",
+            "name": "Thunder Road",
+            "origin_country": "US"
+          },
+          {
+            "id": 103331,
+            "logo_path": "/nxkmGpo1Ym74DkBzNtoMz5cl6DJ.png",
+            "name": "G-BASE",
+            "origin_country": "US"
+          },
+          {
+            "id": 145428,
+            "logo_path": "/dgUV94AxFEumfIICKEg5UdCCU3k.png",
+            "name": "MBC Studios",
+            "origin_country": "AE"
+          },
+          {
+            "id": 154063,
+            "logo_path": "/r4anaxYa8OL5KaUbU35VkrIe88L.png",
+            "name": "Capstone Pictures",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "AE",
+            "name": "United Arab Emirates"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2023-05-25",
+        "revenue": 9400000,
+        "runtime": 119,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "The only thing more dangerous than the mission is the escape.",
+        "title": "Kandahar",
+        "video": false,
+        "vote_average": 6.868,
+        "vote_count": 929
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/j76bFSkkQxh66AqehhoqRljgeld.jpg",
+        "belongs_to_collection": {
+          "id": 702624,
+          "name": "After Collection",
+          "poster_path": "/250ewaLutOJXqBBqMKxCHD1KpCL.jpg",
+          "backdrop_path": "/zZTy8G3sEVZNv0yGssgc7DvPUQJ.jpg"
+        },
+        "budget": 14000000,
+        "genres": [
+          {
+            "id": 10749,
+            "name": "Romance"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
+          }
+        ],
+        "homepage": "",
+        "id": 820525,
+        "imdb_id": "tt15334488",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "After Everything",
+        "overview": "Besieged by writer’s block and the crushing breakup with Tessa, Hardin travels to Portugal in search of a woman he wronged in the past – and to find himself. Hoping to win back Tessa, he realizes he needs to change his ways before he can make the ultimate commitment.",
+        "popularity": 94.909,
+        "poster_path": "/uQxjZGU6rxSPSMeAJPJQlmfV3ys.jpg",
+        "production_companies": [
+          {
+            "id": 6626,
+            "logo_path": "/A1BnMoWjzjOrjzpWimyBQkf84mS.png",
+            "name": "Voltage Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 107108,
+            "logo_path": "/5mxc7uNtFOZm2ly0BxixxGPvPlb.png",
+            "name": "Wattpad",
+            "origin_country": "CA"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2023-09-13",
+        "revenue": 10600000,
+        "runtime": 93,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Portuguese",
+            "iso_639_1": "pt",
+            "name": "Português"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "After Everything",
+        "video": false,
+        "vote_average": 6.942,
+        "vote_count": 760
+      },
+
+
+
+      {
+        "adult": false,
+        "backdrop_path": "/h8ocFPRoz2NZPFCftdiUrjNUSyX.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 28,
+            "name": "Action"
+          }
+        ],
+        "homepage": "",
+        "id": 595228,
+        "imdb_id": "tt10189514",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "ta",
+        "original_title": "சூரரைப் போற்று",
+        "overview": "Nedumaaran Rajangam \"Maara\" sets out to make the common man fly and in the process takes on the world's most capital intensive industry and several enemies who stand in his way.",
+        "popularity": 18.467,
+        "poster_path": "/83AFk8uxCpzAcCnVEnEw3sIKiiE.jpg",
+        "production_companies": [
+          {
+            "id": 55821,
+            "logo_path": "/3H2tgEpC3pRMMoyKEr6YHENgI8E.png",
+            "name": "2D Entertainment",
+            "origin_country": "IN"
+          },
+          {
+            "id": 22486,
+            "logo_path": "/a101r8HZ9dk6xvXyFHcEyh73Qpr.png",
+            "name": "Sikhya Entertainment",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2020-11-12",
+        "revenue": 0,
+        "runtime": 149,
+        "spoken_languages": [
+          {
+            "english_name": "Tamil",
+            "iso_639_1": "ta",
+            "name": "தமிழ்"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Soorarai Pottru",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 75
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zdoxq5iQ2Wlg7VQRG67bAmXOWqZ.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 80,
+            "name": "Crime"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 9648,
+            "name": "Mystery"
+          }
+        ],
+        "homepage": "https://www.primevideo.com/detail/Jai-Bhim-Tamil/0U2K913JJHBL67WJICAYE0KC2J",
+        "id": 855400,
+        "imdb_id": "tt15097216",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "ta",
+        "original_title": "ஜெய் பீம்",
+        "overview": "A pregnant woman from a primitive tribal community, searches desperately for her husband, who is missing from police custody. So as to find her husband and seek justice for them, as their voice, a High Court advocate rises in support. Will their battle for justice succeed?",
+        "popularity": 17.378,
+        "poster_path": "/zb9QBUn5AZzoKCS2jsnhp6ySSGp.jpg",
+        "production_companies": [
+          {
+            "id": 55821,
+            "logo_path": "/3H2tgEpC3pRMMoyKEr6YHENgI8E.png",
+            "name": "2D Entertainment",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2021-11-02",
+        "revenue": 0,
+        "runtime": 164,
+        "spoken_languages": [
+          {
+            "english_name": "Tamil",
+            "iso_639_1": "ta",
+            "name": "தமிழ்"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Jai Bhim",
+        "video": false,
+        "vote_average": 7.456,
+        "vote_count": 124
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/k5iCKAV2VVyXGQbuYRLPmSXiBwm.jpg",
+        "belongs_to_collection": {
+          "id": 920141,
+          "name": "Kaithi Collection",
+          "poster_path": "/jK64ufe2lpUS6O4VTulHxdO68tf.jpg",
+          "backdrop_path": "/4EUcHwxyk2t2BWLr139GTXh0Llf.jpg"
+        },
+        "budget": 0,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
+          }
+        ],
+        "homepage": "https://www.dwp.in/video/kaithi/",
+        "id": 587030,
+        "imdb_id": "tt9900782",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "ta",
+        "original_title": "கைதி",
+        "overview": "Dilli, a convicted criminal, is out on parole to meet his daughter. However, a drug bust sets him off on a mission to save the life of police officers.",
+        "popularity": 19.628,
+        "poster_path": "/hOF9CgPsy9aLr5GJEBESC8MEXFy.jpg",
+        "production_companies": [
+          {
+            "id": 16429,
+            "logo_path": "/8VoXlyno166HSIwMilMLtmb9EBk.png",
+            "name": "Dream Warrior Pictures",
+            "origin_country": "IN"
+          },
+          {
+            "id": 115698,
+            "logo_path": null,
+            "name": "Vivekandanda Pictures",
+            "origin_country": ""
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2019-10-25",
+        "revenue": 0,
+        "runtime": 147,
+        "spoken_languages": [
+          {
+            "english_name": "Tamil",
+            "iso_639_1": "ta",
+            "name": "தமிழ்"
+          },
+          {
+            "english_name": "Telugu",
+            "iso_639_1": "te",
+            "name": "తెలుగు"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Kaithi",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 100
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qzu94AvnZ1az30sTUuibx2bXpfs.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 10749,
+            "name": "Romance"
+          }
+        ],
+        "homepage": "",
+        "id": 441717,
+        "imdb_id": "tt7019842",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "ta",
+        "original_title": "96",
+        "overview": "Ram is a photographer and nature lover who travels all around India capturing moments. On a chance visit to his hometown Tanjavur, he goes into his school and begins to walk down memory lane to 1994 when he was a student harboring feelings for his classmate Janu.",
+        "popularity": 16.338,
+        "poster_path": "/nrVloCa2hCFOztRF1DZU2jnWIiQ.jpg",
+        "production_companies": [
+          {
+            "id": 13214,
+            "logo_path": null,
+            "name": "Madras Enterprises",
+            "origin_country": ""
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2018-10-04",
+        "revenue": 0,
+        "runtime": 159,
+        "spoken_languages": [
+          {
+            "english_name": "Tamil",
+            "iso_639_1": "ta",
+            "name": "தமிழ்"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "96",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 99
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oxl1w7sICYDJfaD9PM06HfPUmOi.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
+          }
+        ],
+        "homepage": "",
+        "id": 576928,
+        "imdb_id": "tt9477520",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "ta",
+        "original_title": "அசுரன்",
+        "overview": "A family from the underprivileged class is on the run after the teenaged son kills a rich man from the upper caste. Can the pacifist father be able to save his hot-blooded son?",
+        "popularity": 12.39,
+        "poster_path": "/Elnp3XrAlMM30dil8rbL7D9XeP.jpg",
+        "production_companies": [
+          {
+            "id": 27430,
+            "logo_path": "/oKvkv0vBwF3U6FxJJV5CMQvPQOL.png",
+            "name": "V Creations",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2019-10-02",
+        "revenue": 0,
+        "runtime": 141,
+        "spoken_languages": [
+          {
+            "english_name": "Tamil",
+            "iso_639_1": "ta",
+            "name": "தமிழ்"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Asuran",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 76
+      },
+
+
+
+      {
+        "adult": false,
+        "backdrop_path": "/k38sLjhQsdLRJZCu3hIL7RcGo3A.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 10749,
+            "name": "Romance"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
+          }
+        ],
+        "homepage": "https://www.primevideo.com/detail/0G2G9F9BZAJUW8XZ2RQ5N3MRBS",
+        "id": 894803,
+        "imdb_id": "tt20850406",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "te",
+        "original_title": "సీతా రామం",
+        "overview": "Afreen, a rebellious Pakistani student sets ablaze the car of an Indian in London. Angered Afreen returns to Pakistan to ask for money from her grandfather that she has to pay in a month's time as damages. However, she gets to know that he is no more and the only thing he has left for her is a letter-delivering task, written by Ram to Sita. As Afreen sets out to find Ram, there begins her journey of discovering the secret behind the 20-year-old letter.",
+        "popularity": 16.874,
+        "poster_path": "/g3hk2wEeIsTGhh7JvK8yWFVR7ue.jpg",
+        "production_companies": [
+          {
+            "id": 80065,
+            "logo_path": "/9zMLq3789hC7qAPpbMl4TwaxJ69.png",
+            "name": "Vyjayanthi Movies",
+            "origin_country": "IN"
+          },
+          {
+            "id": 104527,
+            "logo_path": null,
+            "name": "Swapna Cinema",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2022-08-05",
+        "revenue": 0,
+        "runtime": 158,
+        "spoken_languages": [
+          {
+            "english_name": "Telugu",
+            "iso_639_1": "te",
+            "name": "తెలుగు"
+          }
+        ],
+        "status": "Released",
+        "tagline": "A love story written with war",
+        "title": "Sita Ramam",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 59
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/i0Y0wP8H6SRgjr6QmuwbtQbS24D.jpg",
+        "belongs_to_collection": null,
+        "budget": 69000000,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
+          }
+        ],
+        "homepage": "",
+        "id": 579974,
+        "imdb_id": "tt8178634",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "te",
+        "original_title": "రౌద్రం రణం రుధిరం",
+        "overview": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s.",
+        "popularity": 62.381,
+        "poster_path": "/u0XUBNQWlOvrh0Gd97ARGpIkL0.jpg",
+        "production_companies": [
+          {
+            "id": 68594,
+            "logo_path": null,
+            "name": "DVV Entertainment",
+            "origin_country": "IN"
+          },
+          {
+            "id": 103329,
+            "logo_path": "/bjJ6phaG9F8cGm3RYBjly8wYuH5.png",
+            "name": "Pen Studios",
+            "origin_country": "IN"
+          },
+          {
+            "id": 35124,
+            "logo_path": "/clz3r0SYNudiGRB10yjvU9ZSgP8.png",
+            "name": "Lyca Productions",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2022-03-24",
+        "revenue": 160000000,
+        "runtime": 185,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Telugu",
+            "iso_639_1": "te",
+            "name": "తెలుగు"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Rise, Roar, Revolt.",
+        "title": "RRR",
+        "video": false,
+        "vote_average": 7.77,
+        "vote_count": 1198
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bBn8pi9uq4fZkJxbMdlEefFgoZj.jpg",
+        "belongs_to_collection": null,
+        "budget": 7503564,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
+          }
+        ],
+        "homepage": "",
+        "id": 374954,
+        "imdb_id": "tt5457772",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "te",
+        "original_title": "సరైనోడు",
+        "overview": "Only one man can stop a villain who, backed by his father, brutally murders anyone who gets in the way of his unscrupulous real estate deals.",
+        "popularity": 8.267,
+        "poster_path": "/9r4LCgznHZWg2vdxbZRqnlFpKIC.jpg",
+        "production_companies": [
+          {
+            "id": 38582,
+            "logo_path": "/raGURQPCh7EvoBe9XHkOuw6v2o1.png",
+            "name": "Geetha Arts",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2016-04-08",
+        "revenue": 19059053,
+        "runtime": 161,
+        "spoken_languages": [
+          {
+            "english_name": "Telugu",
+            "iso_639_1": "te",
+            "name": "తెలుగు"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Sarrainodu",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 36
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4DXhyKAo4Zn88byJloNT82EkKFF.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 35,
+            "name": "Comedy"
+          },
+          {
+            "id": 28,
+            "name": "Action"
+          }
+        ],
+        "homepage": "",
+        "id": 262227,
+        "imdb_id": "tt3142764",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "te",
+        "original_title": "రేసుగుర్రం",
+        "overview": "Ram and Lakshman, aka Lucky, are brothers who are polar opposites in nature. Their mother wishes to see them united.",
+        "popularity": 6.759,
+        "poster_path": "/rNIsCxgrtOGRDDa4P06tfgKbxua.jpg",
+        "production_companies": [
+          {
+            "id": 45601,
+            "logo_path": null,
+            "name": "Sri Lakshmi Narasimha Productions",
+            "origin_country": ""
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2014-04-11",
+        "revenue": 0,
+        "runtime": 162,
+        "spoken_languages": [
+          {
+            "english_name": "Telugu",
+            "iso_639_1": "te",
+            "name": "తెలుగు"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Race Gurram",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 40
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vQISDnlCDr5PwG7PO53jYPcJImE.jpg",
+        "belongs_to_collection": null,
+        "budget": 7000000,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
+          }
+        ],
+        "homepage": "http://www.janathagarage.com",
+        "id": 405924,
+        "imdb_id": "tt5946852",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "te",
+        "original_title": "జనతా గ్యారేజ్",
+        "overview": "Anand is an environmental activist who lives in Mumbai. A chance exchange programme takes him to Hyderabad and here, a chance encounter with Satyam results in him taking over the Janatha Garage from the latter.",
+        "popularity": 6.574,
+        "poster_path": "/sEttn6LS1qXOi00oCVfjRnnHY1b.jpg",
+        "production_companies": [
+          {
+            "id": 69125,
+            "logo_path": "/7kRvsVRhT76VTbhGLgJ2CrTgdpa.png",
+            "name": "Mythri Movie Makers",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2016-09-01",
+        "revenue": 21000000,
+        "runtime": 165,
+        "spoken_languages": [
+          {
+            "english_name": "Telugu",
+            "iso_639_1": "te",
+            "name": "తెలుగు"
+          }
+        ],
+        "status": "Released",
+        "tagline": "All repairs are done here...",
+        "title": "Janatha Garage",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 34
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uTb1cHB9nF6CRPtaq55D5VA5M8z.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          }
+        ],
+        "homepage": "",
+        "id": 215248,
+        "imdb_id": "tt2211173",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "te",
+        "original_title": "ఎవడు",
+        "overview": "Satya is given a different face after he suffers burn-related injuries. After being released from the hospital, he deals with the murderer of his lover Deepti. But his new face has given him new foes.",
+        "popularity": 10.919,
+        "poster_path": "/euSAn9sVeS4Qnaj1ZWDw56gPi9W.jpg",
+        "production_companies": [
+          {
+            "id": 14464,
+            "logo_path": null,
+            "name": "Sri Venkateswara Creations",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2014-01-12",
+        "revenue": 0,
+        "runtime": 166,
+        "spoken_languages": [
+          {
+            "english_name": "Telugu",
+            "iso_639_1": "te",
+            "name": "తెలుగు"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Yevadu",
+        "video": false,
+        "vote_average": 6.206,
+        "vote_count": 51
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/a2UHfSMJkG4SE6gcB7TNJUoDnzv.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
+          },
+          {
+            "id": 10749,
+            "name": "Romance"
+          }
+        ],
+        "homepage": "",
+        "id": 81088,
+        "imdb_id": "tt0445033",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "te",
+        "original_title": "మాస్",
+        "overview": "Mass, an orphan, bonds well with his landlord's son, Adi, who is in love with a mafia head's daughter. Attempting to separate the lovers, the gangsters kill Adi and Mass sets out to seek revenge.",
+        "popularity": 4.261,
+        "poster_path": "/h0sU47Zph0iyTvlKrfOq0kKBKY3.jpg",
+        "production_companies": [
+          {
+            "id": 44098,
+            "logo_path": "/eplqXZD7BVDvu4E2QyKRFkL7rtJ.png",
+            "name": "Annapurna Studios",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2004-12-23",
+        "revenue": 0,
+        "runtime": 162,
+        "spoken_languages": [
+          {
+            "english_name": "Telugu",
+            "iso_639_1": "te",
+            "name": "తెలుగు"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Mass",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 16
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/s7QvyLoxJ1PWMGasGpqluQqhUT9.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 80,
+            "name": "Crime"
+          },
+          {
+            "id": 35,
+            "name": "Comedy"
+          },
+          {
+            "id": 9648,
+            "name": "Mystery"
+          }
+        ],
+        "homepage": "",
+        "id": 610482,
+        "imdb_id": "tt10214826",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "te",
+        "original_title": "ఏజెంట్ సాయి శ్రీనివాస అత్రేయ",
+        "overview": "Agent Sai Srinivasa Athreya is a brilliant, underrated detective from Nellore who runs an agency called FBI which sees no business. He gets more than what he asked for when a case happens to fall right into his lap out of nowhere.",
+        "popularity": 6.047,
+        "poster_path": "/jMVfhhWfHLawVp3kd55KBy3VBsW.jpg",
+        "production_companies": [
+          {
+            "id": 119924,
+            "logo_path": null,
+            "name": "Swadharm Entertainment",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2019-06-21",
+        "revenue": 0,
+        "runtime": 144,
+        "spoken_languages": [
+          {
+            "english_name": "Telugu",
+            "iso_639_1": "te",
+            "name": "తెలుగు"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Sherlock Holmes is Fiction , Agent Sai Srinivasa Athreya is Original",
+        "title": "Agent Sai Srinivasa Athreya",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 43
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yxrIrEXHfqz6xoUoqO61GBq973v.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 10749,
+            "name": "Romance"
+          }
+        ],
+        "homepage": "",
+        "id": 535369,
+        "imdb_id": "tt8665746",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "te",
+        "original_title": "RX 100",
+        "overview": "When a city-bred girl comes home to her village, she falls for the macho village boy and asks him out. As a passionate romance brews, the guy falls madly in love with her, but does she feel the same way? Or is it just a passionate summer fling?",
+        "popularity": 5.583,
+        "poster_path": "/rGkTmRYQhdzBhpFjPi0lxchHgcn.jpg",
+        "production_companies": [
+          {
+            "id": 110617,
+            "logo_path": null,
+            "name": "Kartikeya Creations Works",
+            "origin_country": ""
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2018-07-12",
+        "revenue": 0,
+        "runtime": 152,
+        "spoken_languages": [
+          {
+            "english_name": "Telugu",
+            "iso_639_1": "te",
+            "name": "తెలుగు"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "RX 100",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 21
+      },
+
+
+
+      {
+        "adult": false,
+        "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+        "belongs_to_collection": {
+          "id": 230,
+          "name": "The Godfather Collection",
+          "poster_path": "/zqV8MGXfpLZiFVObLxpAI7wWonJ.jpg",
+          "backdrop_path": "/mDMCET9Ens5ANvZAWRpluBsMAtS.jpg"
+        },
+        "budget": 6000000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
+          }
+        ],
+        "homepage": "http://www.thegodfather.com/",
+        "id": 238,
+        "imdb_id": "tt0068646",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Godfather",
+        "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+        "popularity": 135.564,
+        "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+        "production_companies": [
+          {
+            "id": 4,
+            "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+            "name": "Paramount",
+            "origin_country": "US"
+          },
+          {
+            "id": 10211,
+            "logo_path": null,
+            "name": "Alfran Productions",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1972-03-14",
+        "revenue": 245066411,
+        "runtime": 175,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+          },
+          {
+            "english_name": "Latin",
+            "iso_639_1": "la",
+            "name": "Latin"
+          }
+        ],
+        "status": "Released",
+        "tagline": "An offer you can't refuse.",
+        "title": "The Godfather",
+        "video": false,
+        "vote_average": 8.695,
+        "vote_count": 19799
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kXfqcdQKsToO0OUXHcrrNCHDBzO.jpg",
+        "belongs_to_collection": null,
+        "budget": 25000000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
+          }
+        ],
+        "homepage": "",
+        "id": 278,
+        "imdb_id": "tt0111161",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Shawshank Redemption",
+        "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+        "popularity": 153.044,
+        "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+        "production_companies": [
+          {
+            "id": 97,
+            "logo_path": "/7znWcbDd4PcJzJUlJxYqAlPPykp.png",
+            "name": "Castle Rock Entertainment",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1994-09-23",
+        "revenue": 28341469,
+        "runtime": 142,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Fear can hold you prisoner. Hope can set you free.",
+        "title": "The Shawshank Redemption",
+        "video": false,
+        "vote_average": 8.704,
+        "vote_count": 26120
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+        "belongs_to_collection": {
+          "id": 230,
+          "name": "The Godfather Collection",
+          "poster_path": "/zqV8MGXfpLZiFVObLxpAI7wWonJ.jpg",
+          "backdrop_path": "/mDMCET9Ens5ANvZAWRpluBsMAtS.jpg"
+        },
+        "budget": 13000000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
+          }
+        ],
+        "homepage": "",
+        "id": 240,
+        "imdb_id": "tt0071562",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Godfather Part II",
+        "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+        "popularity": 149.989,
+        "poster_path": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+        "production_companies": [
+          {
+            "id": 4,
+            "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+            "name": "Paramount",
+            "origin_country": "US"
+          },
+          {
+            "id": 536,
+            "logo_path": null,
+            "name": "The Coppola Company",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1974-12-20",
+        "revenue": 102600000,
+        "runtime": 202,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+          },
+          {
+            "english_name": "Latin",
+            "iso_639_1": "la",
+            "name": "Latin"
+          },
+          {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+          }
+        ],
+        "status": "Released",
+        "tagline": "The rise and fall of the Corleone empire.",
+        "title": "The Godfather Part II",
+        "video": false,
+        "vote_average": 8.577,
+        "vote_count": 11957
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+        "belongs_to_collection": null,
+        "budget": 22000000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 36,
+            "name": "History"
+          },
+          {
+            "id": 10752,
+            "name": "War"
+          }
+        ],
+        "homepage": "http://www.schindlerslist.com/",
+        "id": 424,
+        "imdb_id": "tt0108052",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Schindler's List",
+        "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+        "popularity": 114.198,
+        "poster_path": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+        "production_companies": [
+          {
+            "id": 56,
+            "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+            "name": "Amblin Entertainment",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1993-12-15",
+        "revenue": 321365567,
+        "runtime": 195,
+        "spoken_languages": [
+          {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+          },
+          {
+            "english_name": "Polish",
+            "iso_639_1": "pl",
+            "name": "Polski"
+          },
+          {
+            "english_name": "Hebrew",
+            "iso_639_1": "he",
+            "name": "עִבְרִית"
+          },
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Whoever saves one life, saves the world entire.",
+        "title": "Schindler's List",
+        "video": false,
+        "vote_average": 8.6,
+        "vote_count": 15360
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/90ez6ArvpO8bvpyIngBuwXOqJm5.jpg",
+        "belongs_to_collection": null,
+        "budget": 13200000,
+        "genres": [
+          {
+            "id": 35,
+            "name": "Comedy"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 10749,
+            "name": "Romance"
+          }
+        ],
+        "homepage": "",
+        "id": 19404,
+        "imdb_id": "tt0112870",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_title": "दिलवाले दुल्हनिया ले जायेंगे",
+        "overview": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+        "popularity": 44.984,
+        "poster_path": "/lfRkUr7DYdHldAqi3PwdQGBRBPM.jpg",
+        "production_companies": [
+          {
+            "id": 1569,
+            "logo_path": "/lvzN86o3jrP44DIvn4SMBLOl9PF.png",
+            "name": "Yash Raj Films",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "1995-10-20",
+        "revenue": 100000000,
+        "runtime": 190,
+        "spoken_languages": [
+          {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Come… Fall In love, All Over Again…",
+        "title": "Dilwale Dulhania Le Jayenge",
+        "video": false,
+        "vote_average": 8.535,
+        "vote_count": 4378
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+        "belongs_to_collection": null,
+        "budget": 350000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Drama"
+          }
+        ],
+        "homepage": "",
+        "id": 389,
+        "imdb_id": "tt0050083",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "12 Angry Men",
+        "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+        "popularity": 80.426,
+        "poster_path": "/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+        "production_companies": [
+          {
+            "id": 60,
+            "logo_path": "/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png",
+            "name": "United Artists",
+            "origin_country": "US"
+          },
+          {
+            "id": 10212,
+            "logo_path": null,
+            "name": "Orion-Nova Productions",
+            "origin_country": ""
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1957-04-10",
+        "revenue": 1000000,
+        "runtime": 97,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Life is in their hands. Death is on their minds.",
+        "title": "12 Angry Men",
+        "video": false,
+        "vote_average": 8.543,
+        "vote_count": 8231
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+        "belongs_to_collection": null,
+        "budget": 11363000,
+        "genres": [
+          {
+            "id": 35,
+            "name": "Comedy"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
+          }
+        ],
+        "homepage": "https://www.parasite-movie.com/",
+        "id": 496243,
+        "imdb_id": "tt6751668",
+        "origin_country": [
+          "KR"
+        ],
+        "original_language": "ko",
+        "original_title": "기생충",
+        "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+        "popularity": 125.195,
+        "poster_path": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+        "production_companies": [
+          {
+            "id": 4399,
+            "logo_path": "/rk3kE5QX2dQtH0pPwCHV12qfebg.png",
+            "name": "Barunson E&A",
+            "origin_country": "KR"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "KR",
+            "name": "South Korea"
+          }
+        ],
+        "release_date": "2019-05-30",
+        "revenue": 257591776,
+        "runtime": 133,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+          },
+          {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Act like you own the place.",
+        "title": "Parasite",
+        "video": false,
+        "vote_average": 8.51,
+        "vote_count": 17499
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
+        "belongs_to_collection": {
+          "id": 263,
+          "name": "The Dark Knight Collection",
+          "poster_path": "/ogyw5LTmL53dVxsppcy8Dlm30Fu.jpg",
+          "backdrop_path": "/xfKot7lqaiW4XpL5TtDlVBA9ei9.jpg"
+        },
+        "budget": 185000000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          }
+        ],
+        "homepage": "https://www.warnerbros.com/movies/dark-knight/",
+        "id": 155,
+        "imdb_id": "tt0468569",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Dark Knight",
+        "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+        "popularity": 132.188,
+        "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+        "production_companies": [
+          {
+            "id": 429,
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Comics",
+            "origin_country": "US"
+          },
+          {
+            "id": 923,
+            "logo_path": "/8M99Dkt23MjQMTTWukq4m5XsEuo.png",
+            "name": "Legendary Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 9996,
+            "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
+            "name": "Syncopy",
+            "origin_country": "GB"
+          },
+          {
+            "id": 118865,
+            "logo_path": null,
+            "name": "Isobel Griffiths",
+            "origin_country": "GB"
+          },
+          {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2008-07-16",
+        "revenue": 1004558444,
+        "runtime": 152,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Welcome to a world without rules.",
+        "title": "The Dark Knight",
+        "video": false,
+        "vote_average": 8.515,
+        "vote_count": 31906
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+        "belongs_to_collection": {
+          "id": 119,
+          "name": "The Lord of the Rings Collection",
+          "poster_path": "/oENY593nKRVL2PnxXsMtlh8izb4.jpg",
+          "backdrop_path": "/bccR2CGTWVVSZAG0yqmy3DIvhTX.jpg"
+        },
+        "budget": 94000000,
+        "genres": [
+          {
+            "id": 12,
+            "name": "Adventure"
+          },
+          {
+            "id": 14,
+            "name": "Fantasy"
+          },
+          {
+            "id": 28,
+            "name": "Action"
+          }
+        ],
+        "homepage": "http://www.lordoftherings.net",
+        "id": 122,
+        "imdb_id": "tt0167260",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Lord of the Rings: The Return of the King",
+        "overview": "Aragorn is revealed as the heir to the ancient kings as he, Gandalf and the other members of the broken fellowship struggle to save Gondor from Sauron's forces. Meanwhile, Frodo and Sam take the ring closer to the heart of Mordor, the dark lord's realm.",
+        "popularity": 140.434,
+        "poster_path": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+        "production_companies": [
+          {
+            "id": 12,
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+          },
+          {
+            "id": 11,
+            "logo_path": "/6FAuASQHybRkZUk08p9PzSs9ezM.png",
+            "name": "WingNut Films",
+            "origin_country": "NZ"
+          },
+          {
+            "id": 5237,
+            "logo_path": "/mlnr7vsBHvLye8oEb5A76C0t8x9.png",
+            "name": "The Saul Zaentz Company",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "NZ",
+            "name": "New Zealand"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2003-12-01",
+        "revenue": 1118888979,
+        "runtime": 201,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "The journey ends.",
+        "title": "The Lord of the Rings: The Return of the King",
+        "video": false,
+        "vote_average": 8.48,
+        "vote_count": 23363
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sw7mordbZxgITU877yTpZCud90M.jpg",
+        "belongs_to_collection": null,
+        "budget": 25000000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
+          }
+        ],
+        "homepage": "http://www.warnerbros.com/goodfellas",
+        "id": 769,
+        "imdb_id": "tt0099685",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "GoodFellas",
+        "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+        "popularity": 246.86,
+        "poster_path": "/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+        "production_companies": [
+          {
+            "id": 8880,
+            "logo_path": "/fE7LBw7Jz8R29EABFGCvWNriZxN.png",
+            "name": "Winkler Films",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "1990-09-12",
+        "revenue": 46800000,
+        "runtime": 145,
+        "spoken_languages": [
+          {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+          },
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Three decades of life in the mafia.",
+        "title": "GoodFellas",
+        "video": false,
+        "vote_average": 8.465,
+        "vote_count": 12374
+      },
+
+
+      {
+        "adult": false,
+        "backdrop_path": "/kqSxCsGIT4rqrZTTMpYP8RIzojv.jpg",
+        "belongs_to_collection": {
+          "id": 485645,
+          "name": "YRF Spy Universe",
+          "poster_path": "/lvonQKsvBsr1Gy72rbNag6ABh2Y.jpg",
+          "backdrop_path": "/6cJasPP4KwC7PbQiBxjActs6B9r.jpg"
+        },
+        "budget": 38000000,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 12,
+            "name": "Adventure"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          }
+        ],
+        "homepage": "https://www.yashrajfilms.com/movies/tiger-3",
+        "id": 720557,
+        "imdb_id": "tt18411490",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_title": "Tiger 3",
+        "overview": "Following the events of Tiger Zinda Hai, War, and Pathaan, Avinash Singh Rathore returns as Tiger but this time the battle is within. He has to choose between his country or family as an old enemy is after his life, who claims that his family was killed by Tiger. He holds Tiger captive in Pakistan as the Indian agent's loyalty towards his country faces its biggest test.",
+        "popularity": 29.44,
+        "poster_path": "/7wgED7Yx9VLcNWSO91VgwicHmMD.jpg",
+        "production_companies": [
+          {
+            "id": 1569,
+            "logo_path": "/lvzN86o3jrP44DIvn4SMBLOl9PF.png",
+            "name": "Yash Raj Films",
+            "origin_country": "IN"
+          },
+          {
+            "id": 215409,
+            "logo_path": null,
+            "name": "First Step Productions",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2023-11-12",
+        "revenue": 47000000,
+        "runtime": 155,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Vietnamese",
+            "iso_639_1": "vi",
+            "name": "Tiếng Việt"
+          },
+          {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+          }
+        ],
+        "status": "Released",
+        "tagline": "This time, it's personal",
+        "title": "Tiger 3",
+        "video": false,
+        "vote_average": 5.792,
+        "vote_count": 36
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6RV2o8PBCEyw9ylOWViV1CtULIF.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Drama"
+          }
+        ],
+        "homepage": "https://www.vinodchoprafilms.com/movies/12th-fail/",
+        "id": 1163258,
+        "imdb_id": "tt23849204",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_title": "12th Fail",
+        "overview": "Based on the true story of IPS officer Manoj Kumar Sharma, 12th Fail sheds limelight on fearlessly embracing the idea of restarting the academic journey despite the setbacks and challenges and reclaiming one's destiny at a place where millions of students attempt the world's toughest competitive exam: UPSC.",
+        "popularity": 28.048,
+        "poster_path": "/cDWW5l4NTWtQi9McwevrY3knsTd.jpg",
+        "production_companies": [
+          {
+            "id": 3781,
+            "logo_path": "/yzvunYIcSuClORJR9VWzpUvlbIW.png",
+            "name": "Vidhu Vinod Chopra Productions",
+            "origin_country": "IN"
+          },
+          {
+            "id": 86347,
+            "logo_path": "/ir79iQBhrXk9PJ5Pr9vlLjM4viO.png",
+            "name": "Zee Studios",
+            "origin_country": "IN"
+          },
+          {
+            "id": 167940,
+            "logo_path": "/fmJxRGTNQASfx0Kc4fUgCfODfoi.png",
+            "name": "KRG Studios",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2023-08-11",
+        "revenue": 0,
+        "runtime": 147,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+          }
+        ],
+        "status": "Released",
+        "tagline": "#RESTART",
+        "title": "12th Fail",
+        "video": false,
+        "vote_average": 8.276,
+        "vote_count": 87
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dtWmtqe4fQpeOZ9W5dFb6PncLGZ.jpg",
+        "belongs_to_collection": {
+          "id": 1199363,
+          "name": "Khichdi Collection",
+          "poster_path": "/mm45BNE7Jspy9HBhlhZVwPMxWZH.jpg",
+          "backdrop_path": "/urALGGmKyrrbgNx1AocFmgM4JJF.jpg"
+        },
+        "budget": 0,
+        "genres": [
+          {
+            "id": 35,
+            "name": "Comedy"
+          },
+          {
+            "id": 10751,
+            "name": "Family"
+          }
+        ],
+        "homepage": "",
+        "id": 1171106,
+        "imdb_id": "tt26744890",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_title": "Khichdi 2: Mission Paanthukistan",
+        "overview": "The Parekh family goes on an adventure to save the world with Praful serving as an emperor of a fictional country Paanthukistan. The absurdity, the gags and the silliness return as the Parekh family's adventure transcends various landscapes – cities, beaches, snow-clad mountains, deserts, and caves.",
+        "popularity": 4.277,
+        "poster_path": "/tIbcDgeW7KoN1R9JME76pgyF5XI.jpg",
+        "production_companies": [
+          {
+            "id": 149722,
+            "logo_path": null,
+            "name": "Hats Off Productions",
+            "origin_country": ""
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2023-11-17",
+        "revenue": 0,
+        "runtime": 122,
+        "spoken_languages": [
+          {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+          }
+        ],
+        "status": "Released",
+        "tagline": "C-grade agents, unwanted - dead, alive or unconscious",
+        "title": "Khichdi 2: Mission Paanthukistan",
+        "video": false,
+        "vote_average": 3,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xYFkBEn8PqJBdQMD6jRzhBjW1nG.jpg",
+        "belongs_to_collection": {
+          "id": 684473,
+          "name": "Saptha Sagaradaache Ello Collection",
+          "poster_path": "/rFXzCSadakL5zsTFWCx2Cr6S4Zi.jpg",
+          "backdrop_path": "/vl8a2kkeUt0ZIqaYb0UDtiS0AAC.jpg"
+        },
+        "budget": 0,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 10749,
+            "name": "Romance"
+          }
+        ],
+        "homepage": "",
+        "id": 1168102,
+        "imdb_id": "tt28857146",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "kn",
+        "original_title": "ಸಪ್ತ ಸಾಗರದಾಚೆ ಎಲ್ಲೊ - ಸೈಡ್ ಬಿ",
+        "overview": "Manu is released from prison and strives to rekindle his love with Priya.",
+        "popularity": 4.269,
+        "poster_path": "/7DIsSaRDmmyDViTwfl9RqV9zQTn.jpg",
+        "production_companies": [
+          {
+            "id": 86211,
+            "logo_path": "/77IiYu20IYXwyd3ma42qyzsSCPb.png",
+            "name": "Paramvah Studios",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2023-11-17",
+        "revenue": 0,
+        "runtime": 146,
+        "spoken_languages": [
+          {
+            "english_name": "Kannada",
+            "iso_639_1": "kn",
+            "name": "?????"
+          }
+        ],
+        "status": "Released",
+        "tagline": "AN OCEAN OF LOVE ENDED UP IN PIECES OF HAPPINESS",
+        "title": "Sapta Sagaradaache Ello - Side B",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/w4pRLYYbhHn3sh9kqRgPZM6GjyS.jpg",
+        "belongs_to_collection": {
+          "id": 623911,
+          "name": "Captain Marvel Collection",
+          "poster_path": "/mHiMmryCureDvoAOlGP6o3oXT8Y.jpg",
+          "backdrop_path": "/zJrQR9g3hnpC8FY4xCXYVg3ztsA.jpg"
+        },
+        "budget": 274800000,
+        "genres": [
+          {
+            "id": 878,
+            "name": "Science Fiction"
+          },
+          {
+            "id": 12,
+            "name": "Adventure"
+          },
+          {
+            "id": 28,
+            "name": "Action"
+          }
+        ],
+        "homepage": "https://www.marvel.com/movies/the-marvels",
+        "id": 609681,
+        "imdb_id": "tt10676048",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Marvels",
+        "overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+        "popularity": 374.667,
+        "poster_path": "/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+        "production_companies": [
+          {
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "origin_country": "US"
+          },
+          {
+            "id": 176762,
+            "logo_path": null,
+            "name": "Kevin Feige Productions",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2023-11-08",
+        "revenue": 207089999,
+        "runtime": 105,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Urdu",
+            "iso_639_1": "ur",
+            "name": "اردو"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Higher. Further. Faster. Together.",
+        "title": "The Marvels",
+        "video": false,
+        "vote_average": 6.154,
+        "vote_count": 2268
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qD2eCsBLLQcdAeYODdgWjVCn0iy.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Drama"
+          }
+        ],
+        "homepage": "",
+        "id": 1000438,
+        "imdb_id": "tt21279420",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_title": "Emergency",
+        "overview": "Emergency is based on true events that unfolded in 1975. The film chronicles incidents that took place under the leadership Mrs Indira Gandhi,  one of the most Powerful Women in Indian History.",
+        "popularity": 8.536,
+        "poster_path": "/yqZ2zvPrmwjj1RGq5L04TB9vOUx.jpg",
+        "production_companies": [
+          {
+            "id": 166711,
+            "logo_path": null,
+            "name": "Manikarnika Films",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2024-06-14",
+        "revenue": 0,
+        "runtime": 0,
+        "spoken_languages": [
+          {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+          }
+        ],
+        "status": "In Production",
+        "tagline": "",
+        "title": "Emergency",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kGpaa9ufi6gFJqLdDtl9mTOEIXj.jpg",
+        "belongs_to_collection": null,
+        "budget": 6900000,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 36,
+            "name": "History"
+          },
+          {
+            "id": 10752,
+            "name": "War"
+          }
+        ],
+        "homepage": "",
+        "id": 814215,
+        "imdb_id": "tt10786774",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_title": "Samबहादुर",
+        "overview": "Based on the life of Sam Manekshaw, who was the Chief of the Army Staff of the Indian Army during the Indo-Pakistani War of 1971, and the first Indian Army officer to be promoted to the rank of Field Marshal.",
+        "popularity": 8.149,
+        "poster_path": "/dFQytJBHxcueASNKcv97Ps2mRW0.jpg",
+        "production_companies": [
+          {
+            "id": 100972,
+            "logo_path": "/ni6szJ3gzDOAmZwlHXKaFyvsxEQ.png",
+            "name": "RSVP Movies",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2023-12-01",
+        "revenue": 0,
+        "runtime": 149,
+        "spoken_languages": [
+          {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+          }
+        ],
+        "status": "Released",
+        "tagline": "His Life. Our History.",
+        "title": "Sam Bahadur",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 17
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/46vzYSLeRxPwYU02Ojn4VHdeTOe.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 12,
+            "name": "Adventure"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          }
+        ],
+        "homepage": "",
+        "id": 1063708,
+        "imdb_id": "tt23864864",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_title": "जोरम",
+        "overview": "A father is on the run with his little baby girl to escape the ghosts of his past and the forces that want him dead.",
+        "popularity": 5.949,
+        "poster_path": "/r5QNn8wyKlVb4J5tRmhNFvqmT68.jpg",
+        "production_companies": [
+          {
+            "id": 188807,
+            "logo_path": null,
+            "name": "Makhijafilm Private Limited",
+            "origin_country": ""
+          },
+          {
+            "id": 86347,
+            "logo_path": "/ir79iQBhrXk9PJ5Pr9vlLjM4viO.png",
+            "name": "Zee Studios",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2023-12-07",
+        "revenue": 0,
+        "runtime": 117,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Joram",
+        "video": false,
+        "vote_average": 7.75,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yfc7xWwLlEacjoOH4TRgb3tAaAe.jpg",
+        "belongs_to_collection": {
+          "id": 1213248,
+          "name": "Salaar Collection",
+          "poster_path": "/q4K8yTsbH1zg9f9xfqzFmGMty93.jpg",
+          "backdrop_path": "/ug2vJ0SvHF7rihtE4tCDlF8t4hp.jpg"
+        },
+        "budget": 34000000,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          }
+        ],
+        "homepage": "",
+        "id": 770906,
+        "imdb_id": "tt13927994",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "te",
+        "original_title": "సలార్: పార్ట్‌ 1 – సీజ్‌ఫైర్‌",
+        "overview": "Set in the fictional dystopian city-state of Khansaar, the film follows the friendship between Deva, a tribesman, and Varadha, the prince of Khansaar. When a coup d'état is planned by his father's ministers and his relatives, Varadha enlists Deva's help to become Khansaar's undisputed ruler.",
+        "popularity": 21.117,
+        "poster_path": "/2G1C677cokQKFHbUKG9sVlIGOiX.jpg",
+        "production_companies": [
+          {
+            "id": 111627,
+            "logo_path": "/ldpgYauK9FMNsbOSSxSSl63o3mb.png",
+            "name": "Hombale Films",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2023-12-21",
+        "revenue": 87229100,
+        "runtime": 175,
+        "spoken_languages": [
+          {
+            "english_name": "Telugu",
+            "iso_639_1": "te",
+            "name": "తెలుగు"
+          }
+        ],
+        "status": "Released",
+        "tagline": "The most violent men called one man the most violent.",
+        "title": "Salaar: Part 1 - Ceasefire",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 55
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6VclCsTqwxa12gAUnA3K2eF2U0e.jpg",
+        "belongs_to_collection": {
+          "id": 921781,
+          "name": "Pushpa Collection",
+          "poster_path": "/30xuqaxHYQpXIqBM361Gw04W1JR.jpg",
+          "backdrop_path": "/ytv0N5a2UonbLubOf4jwRnXbRf.jpg"
+        },
+        "budget": 0,
+        "genres": [
+          {
+            "id": 80,
+            "name": "Crime"
+          },
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 12,
+            "name": "Adventure"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          }
+        ],
+        "homepage": "",
+        "id": 857598,
+        "imdb_id": "tt16539454",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "te",
+        "original_title": "పుష్పా 2 - The Rule",
+        "overview": "",
+        "popularity": 12.63,
+        "poster_path": "/1T21FblunT0y8fz7YaW8JMYgUKm.jpg",
+        "production_companies": [
+          {
+            "id": 69125,
+            "logo_path": "/7kRvsVRhT76VTbhGLgJ2CrTgdpa.png",
+            "name": "Mythri Movie Makers",
+            "origin_country": "IN"
+          },
+          {
+            "id": 93335,
+            "logo_path": null,
+            "name": "Sukumar Writings",
+            "origin_country": "IN"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "IN",
+            "name": "India"
+          }
+        ],
+        "release_date": "2024-08-15",
+        "revenue": 0,
+        "runtime": 0,
+        "spoken_languages": [
+          {
+            "english_name": "Telugu",
+            "iso_639_1": "te",
+            "name": "తెలుగు"
+          }
+        ],
+        "status": "In Production",
+        "tagline": "Now it is Pushpa's rule",
+        "title": "Pushpa 2 - The Rule",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+
+]
+
